@@ -489,3 +489,7 @@
 * [edX](https://www.edx.org/)
 * [SkillShare](https://www.skillshare.com/)
 * [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
+
+## **Other Useful Content**
+
+* [A GitHub Compendium on Piracy](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md#browser-extensions)
