@@ -1,6 +1,48 @@
 # A List of YouTube Channels
 
-* [GoogleDoc Version](https://docs.google.com/document/d/1M5kvDldTCDCNgrlNx6fcDF1h81fnKX6Ovvm20L06Jtk/edit) \- contains a hyperlinked table of contents
+* [GoogleDoc Version](https://docs.google.com/document/d/1M5kvDldTCDCNgrlNx6fcDF1h81fnKX6Ovvm20L06Jtk/edit) \- same list, but in google docs
+
+## Contents:
+
+- [Personal Favorites](#personal-favorites)
+- [Biology](#biology)
+- [Physics](#physics)
+- [Chemistry](#chemistry)
+- [General Science](#general-science)
+- [Anatomy/Medicine](#anatomy-and-medicine)
+- [Science Experiments and Building Stuff](#science-experiments-and-building-stuff)
+- [Math](#math)
+- [Electronics](#electronics)
+- [Engineering](#engineering)
+- [Computer Science](#computer-science)
+- [Coding](#coding)
+- [Space](#space)
+- [Iconic](#iconic)
+- [Lectures](#lectures)
+- [General Explanation](#general-explanation)
+- [Motivation](#motivation)
+- [Music](#music)
+- [Chill](#chill)
+- [Outdoors](#outdoors)
+- [Travel](#travel)
+- [History](#history)
+- [Documentaries](#documentaries)
+- [Workshop](#workshop)
+- [Blue Collar](#blue-collar)
+- [Comedy](#comedy)
+- [Philosophy](#philosophy)
+- [Gaming](#gaming)
+- [Cooking](#cooking)
+- [Houseplants](#houseplants)
+- [Other](#other)
+- [Clickbait Decent](#clickbait-decent)
+- [Podcasts](#podcasts)
+- [Useful Websites](#useful-websites)
+- [Browser Extensions](#browser-extensions)
+- [Online Learning](#online-learning)
+- [Software](#software)
+- [Other Websites](#other-websites)
+- [Misc](#misc)
 
 ## Personal Favorites:
 
@@ -70,7 +112,7 @@
 * [InsecthausTV](https://www.youtube.com/c/InsecthausTV/videos) \- insects
 * [Plants Insider](https://www.youtube.com/c/PlantsInsider/videos)
 
-##  Physics:
+## Physics:
 
 * [Minutephysics](https://www.youtube.com/user/minutephysics/videos)
 * [The Science Asylum ](https://www.youtube.com/user/TheScienceAsylum/videos)
@@ -87,7 +129,7 @@
 * [PhysicsHigh](https://www.youtube.com/c/PhysicsHigh/videos)
 * [Physics Explained](https://www.youtube.com/c/PhysicsExplainedVideos/videos)
 
-##  Chemistry:
+## Chemistry:
 
 * [NileRed](https://www.youtube.com/user/TheRedNile/videos)
 * [Periodic Videos](https://www.youtube.com/user/periodicvideos/videos) 
@@ -105,7 +147,7 @@
 * [Chemistry in a Nutshell](https://www.youtube.com/c/ChemistryinaNutshell/playlists) \- lectures
 * [The Organic Chemistry Tutor](https://www.youtube.com/c/TheOrganicChemistryTutor/playlists) \- lectures
 
-##  General Science:
+## General Science:
 
 * [Veritasium](https://www.youtube.com/c/veritasium/videos)
 * [Domain of Science ](https://www.youtube.com/user/dominicwalliman/videos)
@@ -129,7 +171,7 @@
 * [SmarterEveryDay ](https://www.youtube.com/c/smartereveryday/videos)
 * [Kyle Hill ](https://www.youtube.com/c/KyleHillScience/videos)
 
-##  Anatomy/Medicine:
+## Anatomy and Medicine:
 
 * [Armando Hasudungan](https://www.youtube.com/user/armandohasudungan/videos)
 * [Institute of Human Anatomy ](https://www.youtube.com/c/InstituteofHumanAnatomy/videos)
@@ -138,7 +180,7 @@
 * [Alice Roberts](https://www.youtube.com/channel/UCjo9QNb33VTPVfHPq5oFVxQ/playlists) \- embryology
 * [Sam Webster](https://www.youtube.com/c/SamWebster/videos)
 
-##  Science Experiments and Building Stuff:
+## Science Experiments and Building Stuff:
 
 * [Applied Science ](https://www.youtube.com/user/bkraz333/videos)
 * [Thought Emporium](https://www.youtube.com/user/TheChemlife/videos)
@@ -157,7 +199,7 @@
 * [Teslista555](https://www.youtube.com/c/teslista555/videos) \- high voltage
 * [Breaking Taps](https://www.youtube.com/c/BreakingTaps/videos)
 
-##  Math:
+## Math:
 
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
 * [Numberphile ](https://www.youtube.com/user/numberphile/videos)
@@ -176,7 +218,7 @@
 * [Professor Leonard](https://www.youtube.com/c/ProfessorLeonard/playlists?view=1&sort=dd&shelf_id=0) \- lectures
 * [Tibees](https://www.youtube.com/c/tibees/videos)
 
-##  Electronics:
+## Electronics:
 
 * [Mr Carlson's Lab ](https://www.youtube.com/user/MrCarlsonsLab/videos)
 * [Simply Electronics ](https://www.youtube.com/user/sutty6/videos)
@@ -207,7 +249,7 @@
 * [FesZ Electronics](https://www.youtube.com/c/FesZElectronics/videos)
 * [Ali Hajimiri](https://www.youtube.com/c/AliHajimiriChannel/videos)
 
-##  Engineering:
+## Engineering:
 
 * [EngineerGuy](https://www.youtube.com/user/engineerguyvideo/videos)
 * [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg/videos)
@@ -223,7 +265,7 @@
 * [Art of rendering](https://www.youtube.com/channel/UCROzjj9Mpr4RifkGH0UPxTQ/videos) \- mechanical renders
 * [WolfShaft](https://www.youtube.com/c/WolfShaft/videos) \- mechanical renders
 
-##  Computer Science:
+## Computer Science:
 
 * [Ben Eater ](https://www.youtube.com/user/eaterbc/videos)
 * [LiveOverflow ](https://www.youtube.com/c/LiveOverflow/videos)
@@ -245,7 +287,7 @@
 * [Brackeys](https://www.youtube.com/c/Brackeys/videos?view=0&sort=dd&flow=grid)
 * [Code Bullet ](https://www.youtube.com/c/CodeBullet/videos)
 
-##  Coding:
+## Coding:
 
 * [Scrimba](https://scrimba.com/) \- learn how to code interactively \[website\]
 * [Mike Dane](https://www.youtube.com/c/GiraffeAcademy/playlists?view=1&sort=dd&shelf_id=0) \- every language
@@ -270,7 +312,7 @@
 * [DesignCode](https://www.youtube.com/c/DesignCodeTeam/videos) \- UI/UX, figma, swift
 * [Web Dev Simplified ](https://www.youtube.com/c/WebDevSimplified/playlists)\- CSS, JS, React, Node
 
-##  Space:
+## Space:
 
 * [Anton Petrov](https://www.youtube.com/c/whatdamath/videos)
 * [PBS Space Time](https://www.youtube.com/c/pbsspacetime/videos)
@@ -610,29 +652,29 @@
 
 ## Useful Websites:
 
-* [SyncTube](https://sync-tube.de/) \- watch YouTube videos together
-* [MusicMap ](https://www.music-map.com/)\- find similar music artists
+* [SciHub](https://sci-hubtw.hkvisa.net/) \- remove academic paper paywalls
+* [KhanAcademy](https://www.khanacademy.org/) \- learn anything
 * [Soap2Day](https://soap2day.ac/enter.html) \- movies/shows
 * [Book4You](https://b-ok.cc/) \- books/textbooks
-* [SciHub ](https://sci-hubtw.hkvisa.net/)\- remove academic paper paywalls
-* [KhanAcademy](https://www.khanacademy.org/) \- learn anything
+* [Firmoo](https://www.firmoo.com/) \- buy prescription glasses for cheap ($20 USD+)
+* [CostPlusDrugs.com](https://costplusdrugs.com/) \- affordably purchase medicine without insurance
+* [Wikipedia Years in Science](https://en.wikipedia.org/wiki/List_of_years_in_science) \- key discoveries over the years
+* [GitHub](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) \- find and share code
+* [CodePen](https://codepen.io/2020/popular/pens/1) \- GitHub but for web developers
 * [Outline](https://outline.com/) \- removes some article paywalls
 * [Vocabulary.com](https://www.vocabulary.com/dictionary/) \- simple definitions for hard words
 * [Goodreads](https://www.goodreads.com/) \- find, rate, and review books
-* [Friendspire ](https://www.friendspire.com/)\- social media for ranking movies, books, etc.
-* [Wikipedia Years in Science](https://en.wikipedia.org/wiki/List_of_years_in_science) \- key discoveries over the years
-* [Github](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md#browser-extensions) 
-* [Firmoo](https://www.firmoo.com/) \- buy prescription glasses for cheap ($20 USD+)
-* [CostPlusDrugs.com](https://costplusdrugs.com/) \- affordably purchase medicine without insurance
-* [OneSimpleWish](https://www.onesimplewish.org/) \- charity to  purchase items for foster kids
+* [Friendspire](https://www.friendspire.com/) \- social media for ranking movies, books, etc.
+* [SyncTube](https://sync-tube.de/) \- watch YouTube videos together
+* [MusicMap](https://www.music-map.com/) \- find similar music artists
 * [Find papers, articles, and books](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/edit)
 
 ## Browser Extensions:
 
 * [Dark Reader ](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US)\- turn any webpage dark themed
+* [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en) \- manage tabs and bookmarks
 * [Remove article paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) \- removes paywalls for all news articles
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) \- speed up any web videos by custom threshold
-* [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en) \- manage tabs and bookmarks
 * [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk?hl=en) \- track how much time you spend on sites
 * [Distill Web Monitor](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en) \- monitor websites/blogs for updates
 * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=en-US) \- download any image from webpage
@@ -640,7 +682,7 @@
 * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja?hl=en) \- auto accept cookies
 * [Blocksite](https://chrome.google.com/webstore/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh) \- block distracting sites
 * [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid?hl=en) \- remove YouTube recommended
-* [Enhancer for YouTube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=en-US) \- loads of customization for YouTube
+* [Enhancer for YouTube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=en-US) \- loads of customization for YouTube 
 
 ## Online Learning:
 
@@ -653,9 +695,25 @@
 * [SkillShare](https://www.skillshare.com/)
 * [MIT OpenCourseware](https://ocw.mit.edu/index.htm)
 
+## Software:
+
+* [Calibre](https://calibre-ebook.com/download) \- eBook manager
+* [F.lux](https://justgetflux.com/) \- custom screen tinting/remove blue light
+* [Everything](https://www.voidtools.com/downloads/) \- search files on computer instantaneously 
+* [WinDirStat](https://windirstat.net/download.html) \- visualize disk usage/mange space
+* [Macrium](https://www.macrium.com/reflectfree) \- backup computer image
+* [Notepad++](https://notepad-plus-plus.org/downloads/) \- better version of notepad
+* [Lightshot](https://app.prntscr.com/en/index.html) \- screenshots
+* [CPUID](https://www.cpuid.com/) \- detailed system information 
+* [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) \- batch rename files
+* [Fontbase](https://fontba.se/) \- font manager
+* [Synthesia](https://synthesiagame.com/) \- learn piano from MIDI files 
+
 ## Other Websites:
 
-* [RandomWebsite](https://www.random-website.com/) \- goes to a random website
+* [DALLE](https://labs.openai.com/) \- AI art generation
+* [OneSimpleWish](https://www.onesimplewish.org/) \- charity to purchase items for foster kids
+* [RandomWebsite](https://www.random-website.com/) \- goes to a random website 
 
 ## Misc:
 
