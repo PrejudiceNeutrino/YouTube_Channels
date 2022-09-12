@@ -4,6 +4,7 @@
 
 ## Contents:
 
+___YouTube Channels:___
 - [Personal Favorites](#personal-favorites)
 - [Biology](#biology)
 - [Physics](#physics)
@@ -36,6 +37,8 @@
 - [Houseplants](#houseplants)
 - [Other](#other)
 - [Clickbait Decent](#clickbait-decent)
+
+___Other Resources:___
 - [Podcasts](#podcasts)
 - [Useful Websites](#useful-websites)
 - [Browser Extensions](#browser-extensions)
