@@ -114,6 +114,7 @@ ___Other Resources:___
 * [EVNautilus](https://www.youtube.com/c/EVNautilus/videos) \- marine biology
 * [InsecthausTV](https://www.youtube.com/c/InsecthausTV/videos) \- insects
 * [Plants Insider](https://www.youtube.com/c/PlantsInsider/videos)
+* [Climate Town](https://www.youtube.com/c/ClimateTown/videos)
 
 ## Physics:
 
