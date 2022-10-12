@@ -445,7 +445,18 @@ ___Other Resources:___
 
 ## Travel:
 
+* [Indigo Traveller ](https://www.youtube.com/c/IndigoTraveller/videos)
+* [Gabriel Traveler ](https://www.youtube.com/c/gabejedmo/videos)
+* [Karl Watson](https://www.youtube.com/user/karlwatson18/videos)
+* [Christoph Rehage ](https://www.youtube.com/c/ChristophRehage/videos)\- asia, europe
+* [c90adventures](https://www.youtube.com/playlist?list=PLiUJqMrz7-QNMcyiGo5mBhdqXqSM1XJQH) \- north, south, and central america
+* [Only in Japan](https://www.youtube.com/c/JohnDaub/videos)
+* [travelling the unknown](https://www.youtube.com/c/travellingtheunknown/videos)
+* [The Tim Traveller ](https://www.youtube.com/c/TheTimTraveller/videos)
 * [Eli from Russia ](https://www.youtube.com/c/ElifromRussia/videos)
+* [Rick Steves' Europe ](https://www.youtube.com/c/ricksteves/videos?view=0&sort=dd&flow=grid)
+* [Kurt Caz ](https://www.youtube.com/c/KurtCaz/videos)
+* [bald and bankrupt ](https://www.youtube.com/c/baldandbankrupt/videos)
 
 ## History:
 
