@@ -322,7 +322,6 @@ ___Other Resources:___
 * [PBS Space Time](https://www.youtube.com/c/pbsspacetime/videos)
 * [Deep Sky Videos](https://www.youtube.com/user/DeepSkyVideos/videos)
 * [Everyday Astronaut ](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q/videos)
-* [Jared Owen ](https://www.youtube.com/user/captainranic/videos)
 * [John Michael Godier](https://www.youtube.com/c/JohnMichaelGodier/videos)
 * [SEA](https://www.youtube.com/channel/UCG9ShGbASoiwHwFcLcAh9EA/videos)
 * [Dr. Becky ](https://www.youtube.com/c/DrBecky/videos)
@@ -370,6 +369,7 @@ ___Other Resources:___
 * [New Mind ](https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA/videos)
 * [Vsauce ](https://www.youtube.com/user/Vsauce/videos)
 * [Vsauce2 ](https://www.youtube.com/user/Vsauce2/videos)
+* [Jared Owen ](https://www.youtube.com/user/captainranic/videos)
 * [TED-Ed](https://www.youtube.com/user/TEDEducation/videos) 
 * [Atomic Frontier ](https://www.youtube.com/c/AtomicFrontier/videos)
 * [Facts in Motion ](https://www.youtube.com/channel/UCoanlfeXEit_vI83VlE709A/videos)
@@ -383,35 +383,35 @@ ___Other Resources:___
 
 ## Music:
 
-* [Fkj ](https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w/videos)
-* [Alex Ball](https://www.youtube.com/c/AlexBallMusic/videos) \- synths
-* [12tone ](https://www.youtube.com/c/12tonevideos/videos)\- music theory
-* [Ichika Nito ](https://www.youtube.com/channel/UCq3Wpi10SyZkzVeS7vzB5Lw/videos)\- guitar
+* [12tone](https://www.youtube.com/c/12tonevideos/videos) \- music theory
+* [Tony Ann](https://www.youtube.com/user/tonyannmusic/videos) \- piano
 * [Kyle Landry](https://www.youtube.com/c/kylelandry/videos) \- piano
-* [DOMi & JD Beck](https://www.youtube.com/c/DOMiJDBeck/videos)
+* [Alex Ball](https://www.youtube.com/c/AlexBallMusic/videos) \- synths
+* [Ichika Nito ](https://www.youtube.com/channel/UCq3Wpi10SyZkzVeS7vzB5Lw/videos)\- guitar
 * [ibi ](https://www.youtube.com/c/ibiBerlin/videos)\- piano
 * [Mariana Froes](https://www.youtube.com/c/mariffroes/videos) \- singing covers
-* [CharlesBerthoud ](https://www.youtube.com/c/CharlesBerthoud/videos)\- bass
+* [CharlesBerthoud](https://www.youtube.com/c/CharlesBerthoud/videos) \- bass
 * [Daniel Thrasher ](https://www.youtube.com/c/danielthrasher/videos)
 * [The Dooo](https://www.youtube.com/c/TheDooo/videos) \- electric guitar
 * [Harry Mack](https://www.youtube.com/c/HarryMack/videos) \- freestyle rap
+* [Fkj ](https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w/videos)
 * [Markus Veltri](https://www.youtube.com/c/MarcusVeltri/videos) \- piano
-* [Marc Rebillet ](https://www.youtube.com/c/MarcRebillet/videos)\- improv music
-* [Tony Ann](https://www.youtube.com/user/tonyannmusic/videos) \- piano
-* [lara6683 ](https://www.youtube.com/c/lara6683/videos)\- piano
+* [Marc Rebillet](https://www.youtube.com/c/MarcRebillet/videos) \- improv music
+* [DOMi & JD Beck](https://www.youtube.com/c/DOMiJDBeck/videos)
+* [Lara6683](https://www.youtube.com/c/lara6683/videos) \- piano
 * [Majestic Casual ](https://www.youtube.com/c/majesticcasual/videos)
 * [MrSuicideSheep ](https://www.youtube.com/user/MrSuicideSheep/videos)
-* [Fkj](https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w/videos)
 * [Steezyasfuck](https://www.youtube.com/c/steezyasfvck/videos)
 * [Adam Neely ](https://www.youtube.com/c/AdamNeely/videos)
-* [David Bruce Composer ](https://www.youtube.com/channel/UCh-PyMficPzVAihCJkFJVAA)
-* [Sideways ](https://www.youtube.com/c/Sideways440/videos)\- music analysis
+* [David Bruce Composer ](https://www.youtube.com/c/DBruce/videos)
+* [Sideways](https://www.youtube.com/c/Sideways440/videos) \- music analysis
 * [8-bit Music Theory ](https://www.youtube.com/c/8bitMusicTheory/videos)
 * [Captain Pikant](https://www.youtube.com/c/CaptainPikant/videos)
 * [Electrónicos Fantásticos!](https://www.youtube.com/c/ELECTRONICOSFANTASTICOS_YT/videos)
 * [Dolomuse](https://www.youtube.com/c/dolomuse/videos)
 * [Listening In ](https://www.youtube.com/c/ListeningIn/videos)
 * [Tantacrul ](https://www.youtube.com/c/Tantacrul/videos)
+* [Charles Cornell ](https://www.youtube.com/c/CharlesCornellStudios/videos)
 * [David Bennett Piano ](https://www.youtube.com/c/DavidBennettPiano/videos)
 
 ## Chill:
