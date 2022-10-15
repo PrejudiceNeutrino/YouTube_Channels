@@ -585,7 +585,6 @@ ___Other Resources:___
 * [Internet Historian ](https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw/videos)
 * [Bionerd23](https://www.youtube.com/c/bionerd23/videos)
 * [Vagrant Holiday](https://www.youtube.com/c/VagrantHoliday/videos)
-* [xkcdHatGuy](https://www.youtube.com/c/xkcdHatGuy/videos)
 * [VLSkate ](https://www.youtube.com/c/VLSkate/videos)\- skateboarding
 * [LockPickingLawyer ](https://www.youtube.com/c/lockpickinglawyer/videos)\- lock picking
 * [EdwardCurrent](https://www.youtube.com/user/EdwardCurrent/videos)
