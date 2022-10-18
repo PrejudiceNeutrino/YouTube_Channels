@@ -10,7 +10,7 @@
 - [Physics](#physics)
 - [Chemistry](#chemistry)
 - [General Science](#general-science)
-- [Anatomy/Medicine](#anatomy-and-medicine)
+- [Anatomy and Medicine](#anatomy-and-medicine)
 - [Science Experiments and Building Stuff](#science-experiments-and-building-stuff)
 - [Math](#math)
 - [Electronics](#electronics)
@@ -34,7 +34,7 @@
 - [Philosophy](#philosophy)
 - [Gaming](#gaming)
 - [Cooking](#cooking)
-- [Houseplants/Terrariums](#houseplants)
+- [Houseplants and Terrariums](#houseplants-and-terrariums)
 - [Other](#other)
 
 ### Other Resources:
@@ -196,7 +196,7 @@
 * [Kyle Hill ](https://www.youtube.com/c/KyleHillScience/videos)
 * [StarTalk](https://www.youtube.com/c/StarTalk/videos) 
 
-## Anatomy/Medicine:
+## Anatomy and Medicine:
 
 * [Armando Hasudungan](https://www.youtube.com/user/armandohasudungan/videos)
 * [Wendy Riggs](https://www.youtube.com/user/wendogg1/videos)
@@ -641,7 +641,7 @@
 * [Adam Ragusea ](https://www.youtube.com/user/aragusea/videos)
 * [MinuteFood ](https://www.youtube.com/c/MINUTEFOOD/videos)
 
-## Houseplants/Terrariums:
+## Houseplants and Terrariums:
 
 * [PLANTERINA](https://www.youtube.com/c/Planterina/videos) \- houseplants
 * [Nick Pileggi](https://www.youtube.com/c/NickPileggiPlants/videos) \- houseplants
