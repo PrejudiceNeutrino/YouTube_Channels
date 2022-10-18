@@ -2,9 +2,9 @@
 
 * [Google Docs Version](https://docs.google.com/document/d/1M5kvDldTCDCNgrlNx6fcDF1h81fnKX6Ovvm20L06Jtk/edit) \- same list, but in google docs
 
-## Contents:
+## Table of Contents:
 
-#### YouTube Channels:
+### YouTube Channels:
 - [Personal Favorites](#personal-favorites)
 - [Biology](#biology)
 - [Physics](#physics)
@@ -38,7 +38,7 @@
 - [Other](#other)
 - [Clickbait Decent](#clickbait-decent)
 
-#### Other Resources:
+### Other Resources:
 - [Podcasts](#podcasts)
 - [Useful Websites](#useful-websites)
 - [Browser Extensions](#browser-extensions)
