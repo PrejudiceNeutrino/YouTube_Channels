@@ -4,7 +4,7 @@
 
 ## Contents:
 
-___YouTube Channels:___
+#### YouTube Channels:
 - [Personal Favorites](#personal-favorites)
 - [Biology](#biology)
 - [Physics](#physics)
@@ -38,7 +38,7 @@ ___YouTube Channels:___
 - [Other](#other)
 - [Clickbait Decent](#clickbait-decent)
 
-___Other Resources:___
+#### Other Resources:
 - [Podcasts](#podcasts)
 - [Useful Websites](#useful-websites)
 - [Browser Extensions](#browser-extensions)
@@ -156,6 +156,7 @@ ___Other Resources:___
 * [Veritasium](https://www.youtube.com/c/veritasium/videos)
 * [Domain of Science ](https://www.youtube.com/user/dominicwalliman/videos)
 * [The Action Lab ](https://www.youtube.com/c/TheActionLab/videos)
+* [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 * [Steve Mould](https://www.youtube.com/c/SteveMould/videos)
 * [Be Smart ](https://www.youtube.com/user/itsokaytobesmart/videos)
 * [Science Channel ](https://www.youtube.com/sciencechannelclips/videos)
@@ -331,7 +332,6 @@ ___Other Resources:___
 * [Cool Worlds](https://www.youtube.com/c/CoolWorldsLab/videos)
 * [Scott Manley ](https://www.youtube.com/c/szyzyg/videos)
 * [History of the Universe](https://www.youtube.com/c/HistoryoftheUniverse/videos)
-* [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder/videos)
 * [Event Horizon ](https://www.youtube.com/c/EventHorizonShow/videos)
 * [Launch Pad Astronomy ](https://www.youtube.com/c/ChristianReady/videos)
 * [Chandra X-ray Observatory](https://www.youtube.com/user/cxcpub/videos)
