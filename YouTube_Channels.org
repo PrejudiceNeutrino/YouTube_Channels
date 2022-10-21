@@ -1,0 +1,907 @@
+* YouTube Channels & Other Resources
+:PROPERTIES:
+:CUSTOM_ID: youtube-channels-other-resources
+:END:
+- [[https://docs.google.com/document/d/1M5kvDldTCDCNgrlNx6fcDF1h81fnKX6Ovvm20L06Jtk/edit][Google  Docs Version]] - same list, but in google docs
+
+** Table of Contents:
+:PROPERTIES:
+:CUSTOM_ID: table-of-contents
+:END:
+*** YouTube Channels:
+:PROPERTIES:
+:CUSTOM_ID: youtube-channels
+:END:
+- [[#personal-favorites][Personal Favorites]]
+- [[#biology][Biology]]
+- [[#physics][Physics]]
+- [[#chemistry][Chemistry]]
+- [[#general-science][General Science]]
+- [[#anatomy-and-medicine][Anatomy and Medicine]]
+- [[#science-experiments-and-building-stuff][Science Experiments and Building Stuff]]
+- [[#math][Math]]
+- [[#electronics][Electronics]]
+- [[#engineering][Engineering]]
+- [[#computer-science][Computer Science]]
+- [[#coding][Coding]]
+- [[#space][Space]]
+- [[#lectures][Lectures]]
+- [[#general-explanation][General Explanation]]
+- [[#iconic][Iconic]]
+- [[#motivation][Motivation]]
+- [[#music][Music]]
+- [[#chill][Chill]]
+- [[#outdoors][Outdoors]]
+- [[#travel][Travel]]
+- [[#history][History]]
+- [[#documentaries][Documentaries]]
+- [[#workshop][Workshop]]
+- [[#blue-collar][Blue Collar]]
+- [[#comedy][Comedy]]
+- [[#philosophy][Philosophy]]
+- [[#gaming][Gaming]]
+- [[#cooking][Cooking]]
+- [[#houseplants-and-terrariums][Houseplants and Terrariums]]
+- [[#other][Other]]
+
+*** Other Resources:
+:PROPERTIES:
+:CUSTOM_ID: other-resources
+:END:
+- [[#podcasts][Podcasts]]
+- [[#useful-websites][Useful Websites]]
+- [[#browser-extensions][Browser Extensions]]
+- [[#online-learning][Online Learning]]
+- [[#software][Software]]
+- [[#other-websites][Other Websites]]
+- [[#misc][Misc]]
+
+** Personal Favorites:
+:PROPERTIES:
+:CUSTOM_ID: personal-favorites
+:END:
+- [[https://www.youtube.com/user/Top10Memes/videos][Lemmino]]
+- [[https://www.youtube.com/user/melodysheep/videos][melodysheep]]
+- [[https://www.youtube.com/user/TheRedNile/videos][NileRed]] -chemistry
+- [[https://www.youtube.com/c/veritasium/videos][Veritasium]] - general
+  science
+- [[https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos][Primitive
+  Technology]]
+- [[https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg/videos][Real Engineering]] - engineering
+- [[https://www.youtube.com/c/StuffMadeHere/videos][StuffMadeHere]] - engineering
+- [[https://www.youtube.com/c/SebastianLague/videos][Sebastian Lague]] -
+  game dev/comp sci
+- [[https://www.youtube.com/user/eaterbc/videos][Ben Eater]]- computer science
+- [[https://www.youtube.com/user/willunicycleforfood/videos][Exurb1a]] - philosophy
+- [[https://www.youtube.com/c/CasuallyExplained/videos][Casually Explained]]- comedy, kinda
+- [[https://www.youtube.com/user/styropyro/videos][styropyro]]- lasers
+- [[https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos][3Blue1Brown]] - math
+- [[https://www.youtube.com/c/inanutshell/videos][Kurzgesagt - In a Nutshell]]
+- [[https://www.youtube.com/user/engineerguyvideo/videos][EngineerGuy]] - engineering
+- [[https://www.youtube.com/user/bkraz333/videos][Applied Science]] - science experiments
+- [[https://www.youtube.com/user/periodicvideos/videos][Periodic Videos]] - chemistry
+- [[https://www.youtube.com/c/microcosmos/videos][Journey to the Microcosmos]] - microbiology, microscopy
+- [[https://www.youtube.com/user/KQEDDeepLook/videos][Deep Look]] - biology
+- [[https://www.youtube.com/c/CrimePaysButBotanyDoesnt/videos][Crime Pays But Botany Doesn't]] - botany
+- [[https://www.youtube.com/user/DeepSkyVideos/videos][Deep Sky Videos]] - space
+- [[https://www.youtube.com/user/obscuresorrows/videos][Dictionary ofObscure Sorrows]]
+- [[https://www.youtube.com/c/MarcRebillet/videos][Marc Rebillet]] - music
+- [[https://www.youtube.com/c/hsinchuen/videos][Hsinchuen Lin]] - ceramics
+- [[https://www.youtube.com/c/CookingWithTheBlues/videos][Cooking With The Blues]] - cooking
+- [[https://www.youtube.com/user/SethEverman/videos][SethEverman]]
+- [[https://www.youtube.com/c/IndigoTraveller/videos][Indigo Traveller]]- travel
+
+** Biology:
+:PROPERTIES:
+:CUSTOM_ID: biology
+:END:
+- [[https://www.youtube.com/c/microcosmos/videos][Journey to the Microcosmos]] - microbiology, microscopy
+- [[https://www.youtube.com/user/KQEDDeepLook/videos][Deep Look]]
+- [[https://www.youtube.com/c/CrimePaysButBotanyDoesnt/videos][Crime Pays But Botany Doesn't]] - botany
+- [[https://www.youtube.com/channel/UCwg6_F2hDHYrqbNSGjmar4w/videos][Animalogic]]
+- [[https://www.youtube.com/user/GeologyNick/videos][Nick Zentner]] - geology
+- [[https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA/videos][PBS Eons]] - paleontology
+- [[https://www.youtube.com/c/FraserValleyRoseFarm/videos][Fraser Valley Rose Farm]]- botany
+- [[https://www.youtube.com/user/NaturalWorldFacts/videos][Natural World Facts]]
+- [[https://www.youtube.com/c/DrPlantsChannel/videos][Dr. Plants]]
+- [[https://www.youtube.com/c/HistoryoftheEarth/videos][History of the Earth]] - paleontology
+- [[https://www.youtube.com/c/zefrank/videos][zefrank1]]
+- [[https://www.youtube.com/c/Basin79/videos][Basin79]] - spiders
+- [[https://www.youtube.com/c/BenGThomas/videos][Ben G Thomas]]
+- [[https://www.youtube.com/user/AntsCanada/videos][AntsCanada]]- ants
+- [[https://www.youtube.com/c/amillison/videos][Andrew Millison]] - permaculture
+- [[https://www.youtube.com/c/Anthillart/videos][Anthill Art]]
+- [[https://www.youtube.com/c/TierZoo/videos][TierZoo]]
+- [[https://www.youtube.com/c/MadeintheWild/videos][Made in the Wild]] - zoology
+- [[https://www.youtube.com/c/StatedClearly/videos][Stated Clearly]]
+- [[https://www.youtube.com/user/MBARIvideo/videos][MBARI]]- marine biology
+- [[https://www.youtube.com/c/Anth%C3%B6nyPain/videos][Anthöny Pain]]
+- [[https://www.youtube.com/c/naturepbs/videos][Nature on PBS]]
+- [[https://www.youtube.com/c/bbcearth/videos?view=0&sort=p&flow=grid][BBC Earth]]
+- [[https://www.youtube.com/c/Microbehunter/videos][Microbehunter]] - microscopy, microbiology
+- [[https://www.youtube.com/c/QuaoarPower/videos][Quaoar Power]] - entomology
+- [[https://www.youtube.com/c/AnimalFactFiles/videos][Animal Fact Files]]
+- [[https://www.youtube.com/c/LabofOrnithology/videos?view=0&sort=p&flow=grid][Cornel Lab of Ornithology]]
+- [[https://www.youtube.com/c/PlanetFungi/videos][Planet Fungi]] -mycology
+- [[https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g/videos][MothLight Media]] - paleontology
+- [[https://www.youtube.com/c/NORTH02/videos][NORTH 02]] - paleontology
+- [[https://www.youtube.com/c/AtlasPro1/videos][Atlas Pro]]
+- [[https://www.youtube.com/c/AmoebaSisters/videos][Amoeba Sisters]]
+- [[https://www.youtube.com/c/StefanMilo/videos][Stefan Milo]] - anthropogeny, anthropology
+- [[https://www.youtube.com/c/GeologyHub/videos][GeologyHub]]
+- [[https://www.youtube.com/user/katetectonics/videos][Kate Tectonics]] - geology
+- [[https://www.youtube.com/c/EVNautilus/videos][EVNautilus]] - marine biology
+- [[https://www.youtube.com/c/InsecthausTV/videos][InsecthausTV]] - insects
+- [[https://www.youtube.com/c/PlantsInsider/videos][Plants Insider]]
+- [[https://www.youtube.com/c/ClimateTown/videos][Climate Town]] - climate
+- [[https://www.youtube.com/c/NeuralAcademy/videos?view=0&sort=p&flow=grid][Neural Academy]] - biology songs
+- [[https://www.youtube.com/c/Biologybyme/videos][Biologybyme]]
+- [[https://www.youtube.com/c/ThisGloriousClockwork/videos][This Glorious Clockwork]]
+- [[https://www.youtube.com/c/SimonOxfPhys/videos][Simon Clark]] - climate
+
+** Physics:
+:PROPERTIES:
+:CUSTOM_ID: physics
+:END:
+- [[https://www.youtube.com/user/minutephysics/videos][Minutephysics]]
+- [[https://www.youtube.com/c/pbsspacetime/videos][PBS Space Time]]
+- [[https://www.youtube.com/user/TheScienceAsylum/videos][The Science Asylum]]
+- [[https://www.youtube.com/c/PhysicswithElliot/videos][Physics with Elliot]]
+- [[https://www.youtube.com/c/physicsgirl/videos][Physics Girl]]
+- [[https://www.youtube.com/user/fermilab/videos][Fermilab]]
+- [[https://www.youtube.com/user/EugeneKhutoryansky/videos][Physics  Videos by Eugene]]
+- [[https://www.youtube.com/c/ScienceClicEN/videos][ScienceClic  English]]
+- [[https://www.youtube.com/c/XenosumPhysics/videos][Xenosum]]
+- [[https://www.youtube.com/user/DrPhysicsA/videos][DrPhysicsA]]
+- [[https://www.youtube.com/channel/UCliSRiiRVQuDfgxI_QN_Fmw/videos][For the Allure of Physics]]
+- [[https://www.youtube.com/c/viascience/playlists?view=1&sort=dd&shelf_id=0][ViaScience]] - quantum mechanics, thermodynamics
+- [[https://www.youtube.com/user/XylyXylyX/playlists][XylyXylyX]] - general relativity
+- [[https://www.youtube.com/user/sixtysymbols/videos][Sixty Symbols]]
+- [[https://www.youtube.com/c/PhysicsHigh/videos][PhysicsHigh]]
+- [[https://www.youtube.com/c/ParthGChannel/videos][Parth G]]
+- [[https://www.youtube.com/user/LookingGlassUniverse/videos][Looking Glass Universe]]
+- [[https://www.youtube.com/c/ArvinAsh/videos][Arvin Ash]]
+- [[https://www.youtube.com/c/PhysicsExplainedVideos/videos][Physics Explained]]
+- [[https://www.youtube.com/playlist?list=PLrxfgDEc2NxZJcWcrxH3jyjUUrJlnoyzX][The   Biggest Ideas in the Universe]] - playlist
+- [[https://www.youtube.com/c/eigenchris/playlists][Eigenchris]] - relativity, tensors
+- [[https://www.youtube.com/c/Flippingphysics2013/videos][Flipping  Physics]]
+- [[https://www.youtube.com/c/PhysicsExplained3/playlists][Physics Explained]]
+- [[https://www.youtube.com/c/ProfessorMdoesScience/videos][Professor M   does Science]]
+
+** Chemistry:
+:PROPERTIES:
+:CUSTOM_ID: chemistry
+:END:
+- [[https://www.youtube.com/user/TheRedNile/videos][NileRed]]
+- [[https://www.youtube.com/user/periodicvideos/videos][Periodic  Videos]]
+- [[https://www.youtube.com/user/tdewitt451/videos][Tyler DeWitt]]
+- [[https://www.youtube.com/c/NurdRage/videos][NurdRage]]
+- [[https://www.youtube.com/c/NileRedShorts/videos][NileRed Shorts]]
+- [[https://www.youtube.com/c/NileRed2/videos][NileBlue]]
+- [[https://www.youtube.com/c/ExtractionsIre/videos][Extractions&Ire]]
+- [[https://www.youtube.com/c/ExplosionsFire2/videos][Explosions&Fire]]
+- [[https://www.youtube.com/c/ChemicalForce/videos][ChemicalForce]]
+- [[https://www.youtube.com/c/Rhodanide/videos][Rhodanide]]
+- [[https://www.youtube.com/c/TomsLab/videos][Tom's Lab]]
+- [[https://www.youtube.com/channel/UC76v7IV2VacsYmQ2DcNMEUg/videos][ReactiveChem]]
+- [[https://www.youtube.com/c/DavidSherrill1/playlists][David  Sherrill]] - computational chemistry
+- [[https://www.youtube.com/c/TMPChem/playlists?view=1&sort=dd&shelf_id=0][TMP  Chem]]
+- [[https://www.youtube.com/c/ChemistryinaNutshell/playlists][Chemistry  in a Nutshell]] - lectures
+- [[https://www.youtube.com/c/TheOrganicChemistryTutor/playlists][The  Organic Chemistry Tutor]] - lectures
+
+** General Science:
+:PROPERTIES:
+:CUSTOM_ID: general-science
+:END:
+- [[https://www.youtube.com/c/veritasium/videos][Veritasium]]
+- [[https://www.youtube.com/user/dominicwalliman/videos][Domain of  Science]]
+- [[https://www.youtube.com/c/SabineHossenfelder/videos][Sabine  Hossenfelder]]
+- [[https://www.youtube.com/c/TheActionLab/videos][The Action Lab]]
+- [[https://www.youtube.com/c/SteveMould/videos][Steve Mould]]
+- [[https://www.youtube.com/user/itsokaytobesmart/videos][Be Smart]]
+- [[https://www.youtube.com/sciencechannelclips/videos][Science  Channel]]
+- [[https://www.youtube.com/c/Nighthawkinlight/videos][NightHawkInLight]]
+- [[https://www.youtube.com/c/BranchEducation/videos][Branch Education]]
+- [[https://www.youtube.com/c/ScienceMarshall/videos][Science Marshall]]
+- [[https://www.youtube.com/channel/UC7BhHN8NyMMru2RUygnDXSg/videos][Sciencephile  the AI]]
+- [[https://www.youtube.com/user/scishow/videos][Sci Show]]
+- [[https://www.youtube.com/c/minuteearth/videos][Minute Earth]]
+- [[https://www.youtube.com/c/realscience/videos][Real Science]]
+- [[https://www.youtube.com/c/AlphaPhoenixChannel/videos][Alpha  Phoenix]]
+- [[https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg/videos][Arxiv  Insights]]
+- [[https://www.youtube.com/user/nottinghamscience/videos][Nottinghamscience]]
+- [[https://www.youtube.com/user/BackstageScience/videos][BackstageScience]]
+- [[https://www.youtube.com/channel/UCtxJFU9DgUhfr2J2bveCHkQ/videos][Verge  Science]]
+- [[https://www.youtube.com/c/TheRoyalInstitution/videos][The Royal  Institution]]
+- [[https://www.youtube.com/c/WorldScienceFestival/videos][World Science  Festival]]
+- [[https://www.youtube.com/c/UpandAtom/videos][Up and Atom]]
+- [[https://www.youtube.com/c/smartereveryday/videos][SmarterEveryDay]]
+- [[https://www.youtube.com/c/KyleHillScience/videos][Kyle Hill]]
+- [[https://www.youtube.com/c/StarTalk/videos][StarTalk]]
+
+** Anatomy and Medicine:
+:PROPERTIES:
+:CUSTOM_ID: anatomy-and-medicine
+:END:
+- [[https://www.youtube.com/user/armandohasudungan/videos][Armando  Hasudungan]]
+- [[https://www.youtube.com/user/wendogg1/videos][Wendy Riggs]]
+- [[https://www.youtube.com/c/MedicosisPerfectionalis/videos][Medicosis  Perfectionalis]]
+- [[https://www.youtube.com/c/InstituteofHumanAnatomy/videos][Institute  of Human Anatomy]]
+- [[https://www.youtube.com/c/ChubbyemuGames/videos][Chubbyemu]]
+- [[https://www.youtube.com/c/NinjaNerdScience/videos][Ninja Nerd]]
+- [[https://www.youtube.com/channel/UCjo9QNb33VTPVfHPq5oFVxQ/playlists][Alice  Roberts]] - embryology
+- [[https://www.youtube.com/c/SamWebster/videos][Sam Webster]]
+
+** Science Experiments and Building Stuff:
+:PROPERTIES:
+:CUSTOM_ID: science-experiments-and-building-stuff
+:END:
+- [[https://www.youtube.com/user/bkraz333/videos][Applied Science]]
+- [[https://www.youtube.com/user/TheChemlife/videos][Thought Emporium]]
+- [[https://www.youtube.com/c/StuffMadeHere/videos][StuffMadeHere]]
+- [[https://www.youtube.com/c/JeremyFieldingSr/videos][Jeremy Fielding]]
+- [[https://www.youtube.com/user/TechIngredients/videos][Tech  Ingredients]]
+- [[https://www.youtube.com/c/SamZeloof/videos][Sam Zeloof]]
+- [[https://www.youtube.com/user/onemeeeliondollars/videos][Mark Rober]]
+- [[https://www.youtube.com/user/theCodyReeder/videos][Cody's Lab]]
+- [[https://www.youtube.com/c/MichaelReeves/videos][Michael Reeves]]
+- [[https://www.youtube.com/c/colinfurze/videos?view=0&sort=p&flow=grid][colinfurze]]
+- [[https://www.youtube.com/user/TheBackyardScientist/videos][TheBackyardScientist]]
+- [[https://www.youtube.com/channel/UCDbWmfrwmzn1ZsGgrYRUxoA/videos][The  Post Apocalyptic Inventor]]
+- [[https://www.youtube.com/c/TomStantonEngineering/videos][Tom  Stanton]]
+- [[https://www.youtube.com/c/PeterSripol/videos][PeterSripol]]
+- [[https://www.youtube.com/c/rctestflight/videos][rctestflight]]
+- [[https://www.youtube.com/c/HuygensOptics/videos][Huygens Optics]]
+- [[https://www.youtube.com/c/teslista555/videos][Teslista555]] - high  voltage
+- [[https://www.youtube.com/c/BreakingTaps/videos][Breaking Taps]]
+- [[https://www.youtube.com/c/RobertMurraySmith/videos?view=0&sort=p&flow=grid][Robert  Murray-Smith]]
+
+** Math:
+:PROPERTIES:
+:CUSTOM_ID: math
+:END:
+- [[https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos][3Blue1Brown]]
+- [[https://www.youtube.com/user/numberphile/videos][Numberphile]]
+- [[https://www.youtube.com/c/pbsinfiniteseries/videos][PBS Infinite  Series]]
+- [[https://www.youtube.com/c/misterwootube/videos][Eddie Woo]]
+- [[https://www.youtube.com/user/Vihart/videos][Vihart]]
+- [[https://www.youtube.com/user/standupmaths/videos][Stand-up Maths]]
+- [[https://www.youtube.com/c/Mathologer/videos][Mathologer]]
+- [[https://www.youtube.com/user/patrickJMT/videos][patrickJMT]]
+- [[https://www.youtube.com/user/TippingPointMath/videos][Tipping Point  Math]]
+- [[https://www.youtube.com/c/ThinkTwiceLtu/videos][Think Twice]]
+- [[https://www.youtube.com/c/blackpenredpen/videos][blackpenredpen]]
+- [[https://www.youtube.com/c/MindYourDecisions/videos][MindYourDecisions]]
+- [[https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ/playlists?view=1&sort=dd&shelf_id=0][Richard  E. BORCHERDS]] - advanced math
+- [[https://www.youtube.com/c/DrTreforBazett/videos][Dr. Trefor Bazett]]
+- [[https://www.youtube.com/c/ProfessorLeonard/playlists?view=1&sort=dd&shelf_id=0][Professor  Leonard]] - lectures
+- [[https://www.youtube.com/c/tibees/videos][Tibees]]
+- [[https://www.youtube.com/c/MichaelPennMath/videos][Michael Penn]]
+- [[https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA/videos][zhuli]]
+
+** Electronics:
+:PROPERTIES:
+:CUSTOM_ID: electronics
+:END:
+- [[https://www.youtube.com/user/MrCarlsonsLab/videos][Mr Carlson's  Lab]]
+- [[https://www.youtube.com/user/sutty6/videos][Simply Electronics]]
+- [[https://www.youtube.com/channel/UCy0tKL1T7wFoYcxCe0xjN6Q/videos?view=0&sort=p][Technology  Connections]]
+- [[https://www.youtube.com/channel/UCE-bw6PRKuDlH6fP1mP4nOw/videos][SeanHodgins]]
+- [[https://www.youtube.com/user/styropyro/videos][styropyro]] - lasers
+- [[https://www.youtube.com/user/DejanNedelkovski/videos][How To  Mechatronics]]
+- [[https://www.youtube.com/channel/UCQak2_fXZ_9yXI5vB_Kd54g/videos][DiodeGoneWild]]
+- [[https://www.youtube.com/c/Bigclive/videos][bigclivedotcom]]
+- [[https://www.youtube.com/user/greatscottlab/videos][GreatScott!]]
+- [[https://www.youtube.com/user/Afrotechmods/videos][Afrotechmods]]
+- [[https://www.youtube.com/user/zilipoper/videos][Zilipoper]]
+- [[https://www.youtube.com/channel/UCnSqwyD8RmO-nX1EF_UJXaw/videos][Vidduley]]
+- [[https://www.youtube.com/c/JerryRigEverything/videos][JerryRigEverything]]
+- [[https://www.youtube.com/c/Electroboom/videos][ElectroBOOM]]
+- [[https://www.youtube.com/c/Thesignalpath/videos][The Signal Path]]
+- [[https://www.youtube.com/user/Esperantanaso/videos][Esperantanaso]]
+- [[https://www.youtube.com/c/Techmoan/videos][Techmoan]]
+- [[https://www.youtube.com/c/EevblogDave/videos][EEVblog]]
+- [[https://www.youtube.com/user/EdisonTechCenter/videos][EdisonTechCenter]]
+- [[https://www.youtube.com/c/MoritzKlein0/videos][Moritz Klein]]
+- [[https://www.youtube.com/user/w2aew/videos][w2aew]]
+- [[https://www.youtube.com/c/CuriousMarc/videos][CuriousMarc]]
+- [[https://www.youtube.com/user/tesla500/videos][Tesla500]]
+- [[https://www.youtube.com/user/vk2zay/videos][Alan Yates]]
+- [[https://www.youtube.com/user/mikeselectricstuff/videos][Mikeselectricstuff]]
+- [[https://www.youtube.com/c/jeriellsworth/videos][Jeri Ellsworth]]
+- [[https://www.youtube.com/c/mkbhd/videos][Marques Brownlee]] - new  tech
+- [[https://www.youtube.com/c/FesZElectronics/videos][FesZ Electronics]]
+- [[https://www.youtube.com/c/AliHajimiriChannel/videos][Ali Hajimiri]]
+- [[https://www.youtube.com/c/ELECTRONOOBS/videos][Electronoobs]]
+
+** Engineering:
+:PROPERTIES:
+:CUSTOM_ID: engineering
+:END:
+- [[https://www.youtube.com/user/engineerguyvideo/videos][EngineerGuy]]
+- [[https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg/videos][Real  Engineering]]
+- [[https://www.youtube.com/user/gradyhillhouse/videos][Practical  Engineering]] - civil
+- [[https://www.youtube.com/c/TheEfficientEngineer/videos][The Efficient  Engineer]]
+- [[https://www.youtube.com/c/Theengineeringmindset/videos][The  Engineering Mindset]]
+- [[https://www.youtube.com/user/EngineeringExplained/videos][Engineering  Explained]]
+- [[https://www.youtube.com/c/KYLEDRIVES/videos][Kyle.Engineers]]
+- [[https://www.youtube.com/c/AgentJayZ/videos][AgentJayZ]]
+- [[https://www.youtube.com/c/Theb1mGoogle/videos][The B1M]]- civil
+- [[https://www.youtube.com/c/FoundAndExplained/videos][Found And  Explained]] - aerospace
+- [[https://www.youtube.com/c/Lesics/videos][Lesics]]
+- [[https://www.youtube.com/channel/UC7r0CSsoS5HeCjkJX2ADwlg/videos][Dejmian  XYZ Simulations]]
+- [[https://www.youtube.com/channel/UCROzjj9Mpr4RifkGH0UPxTQ/videos][Art  of rendering]] - mechanical renders
+- [[https://www.youtube.com/c/WolfShaft/videos][WolfShaft]] - mechanical  renders
+- [[https://www.youtube.com/user/1234jhanson/videos][Jeff Hanson]] -
+  lectures
+- [[https://www.youtube.com/channel/UCGv3KG_qIWQuIZEH-YGpBUw/playlists][Gregory  Michaelson]] - statics, structural analysis
+
+** Computer Science:
+:PROPERTIES:
+:CUSTOM_ID: computer-science
+:END:
+- [[https://www.youtube.com/user/eaterbc/videos][Ben Eater]]
+- [[https://www.youtube.com/c/SebastianLague/videos][Sebastian Lague]]
+- [[https://www.youtube.com/user/keeroyz/videos][Two Minute Papers]]
+- [[https://www.youtube.com/c/georgehotzarchive/videos][george hotz  archive]]
+- [[https://www.youtube.com/user/Computerphile/videos][Computerphile]]
+- [[https://www.youtube.com/c/LiveOverflow/videos][LiveOverflow]]
+- [[https://www.youtube.com/c/jdhvideo/videos][jdh]]
+- [[https://www.youtube.com/c/Reducible/videos][Reducible]]
+- [[https://www.youtube.com/c/PwnFunction/videos][PwnFunction]]
+- [[https://www.youtube.com/c/CSDojo/videos][CS Dojo]]
+- [[https://www.youtube.com/user/sentdex/videos][sentdex]]
+- [[https://www.youtube.com/c/Fireship/videos][Fireship]]
+- [[https://www.youtube.com/c/javidx9/videos][javidx9]]
+- [[https://www.youtube.com/c/WelchLabsVideo/videos][Welch Labs]]
+- [[https://www.youtube.com/c/CodeParade/videos][CodeParade]]
+- [[https://www.youtube.com/c/DevTipsForDesigners/videos][DevTips]]
+- [[https://www.youtube.com/c/explainingcomputers/videos][ExplainingComputers]]
+- [[https://www.youtube.com/c/nesoacademy/videos][Neso Academy]]
+- [[https://www.youtube.com/c/TheCodingTrain/videos][The Coding Train]]
+- [[https://www.youtube.com/c/Nemean/videos][Nemean]]
+- [[https://www.youtube.com/c/Brackeys/videos?view=0&sort=dd&flow=grid][Brackeys]]
+- [[https://www.youtube.com/c/CodeBullet/videos][Code Bullet]]
+- [[https://www.youtube.com/c/DeepMind/videos][DeepMind]] - applied  computer science
+- [[https://www.youtube.com/c/WhatsACreel/videos][Creel]]
+- [[https://www.youtube.com/c/Techquickie/videos][Techquickie]]
+- [[https://www.youtube.com/c/LinusTechTips/videos][Linus Tech Tips]]
+
+** Coding:
+:PROPERTIES:
+:CUSTOM_ID: coding
+:END:
+- [[https://scrimba.com/][Scrimba]] - learn how to code interactively
+  [website]
+- [[https://www.youtube.com/c/GiraffeAcademy/playlists?view=1&sort=dd&shelf_id=0][Mike  Dane]] - every language
+- [[https://www.youtube.com/c/Freecodecamp/playlists?view=1&sort=dd&shelf_id=0][freeCodeCamp]] -every language
+- [[https://www.youtube.com/c/mCodingWithJamesMurphy/videos][mCoding]]- python
+- [[https://www.youtube.com/c/programmingwithmosh/playlists][Programming  with Mosh]]- java, python
+- [[https://www.youtube.com/c/BroCodez/videos][Bro Code]]
+- [[https://www.youtube.com/c/Coreyms/playlists][Corey Schafer]] -  mainly python, pandas, django
+- [[https://www.youtube.com/c/TheCodex/playlists][TheCodex]] - java,  SQL, python
+- [[https://www.youtube.com/c/JohnHammond010/videos][John Hammond]]
+- [[https://www.youtube.com/channel/UCQCaS3atWyNHEy5PkDXdpNg/videos][Stephen  Grider]]
+- [[https://www.youtube.com/c/JavaScriptMastery/playlists][JavaScript  Mastery]]
+- [[https://www.youtube.com/kepowob/playlists?view=1&sort=dd&shelf_id=0][Kevin  Powell]] - HTML & CSS
+- [[https://www.youtube.com/c/TheNetNinja/playlists][The Net Ninja]]
+- [[https://www.youtube.com/c/MrPSolver/videos][Mr. P Solver]] - python
+- [[https://www.youtube.com/c/Ihatetomatoes/videos][Ihatetomatoes]]
+- [[https://www.youtube.com/c/CodingAddict/playlists][Coding Addict]]
+- [[https://www.youtube.com/user/IAmTimCorey/playlists?view=1&sort=dd&shelf_id=0][IAmTimCorey]] -  C#
+- [[https://www.youtube.com/c/ComputerSciencecompsci112358/videos][Computer  Science]]
+- [[https://www.youtube.com/c/AlexLeeYT/playlists][Alex Lee]] - java
+- [[https://www.youtube.com/c/DevEd/playlists][Dev Ed]] - react, JS,  node JS, web design
+- [[https://www.youtube.com/c/AriPxl/videos][Ari Pxl]] - figma, HTML,  CSS
+- [[https://www.youtube.com/c/DesignCodeTeam/videos][DesignCode]] -  UI/UX, figma, swift
+- [[https://www.youtube.com/c/WebDevSimplified/playlists][Web Dev  Simplified]] - CSS, JS, React, Node
+
+** Space:
+:PROPERTIES:
+:CUSTOM_ID: space
+:END:
+- [[https://www.youtube.com/c/whatdamath/videos][Anton Petrov]]
+- [[https://www.youtube.com/user/DeepSkyVideos/videos][Deep Sky Videos]]
+- [[https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q/videos][Everyday  Astronaut]]
+- [[https://www.youtube.com/c/JohnMichaelGodier/videos][John Michael  Godier]]
+- [[https://www.youtube.com/channel/UCG9ShGbASoiwHwFcLcAh9EA/videos][SEA]]
+- [[https://www.youtube.com/c/DrBecky/videos][Dr. Becky]]
+- [[https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g/videos][Isaac  Arthur]]
+- [[https://www.youtube.com/user/scishowspace/videos][Sci Show Space]]
+- [[https://www.youtube.com/user/astrumspace/videos][Astrum]]
+- [[https://www.youtube.com/c/CoolWorldsLab/videos][Cool Worlds]]
+- [[https://www.youtube.com/c/szyzyg/videos][Scott Manley]]
+- [[https://www.youtube.com/c/howfarawayisit/videos][David Butler]]
+- [[https://www.youtube.com/c/HistoryoftheUniverse/videos][History of  the Universe]]
+- [[https://www.youtube.com/c/EventHorizonShow/videos][Event Horizon]]
+- [[https://www.youtube.com/c/ChristianReady/videos][Launch Pad  Astronomy]]
+- [[https://www.youtube.com/user/cxcpub/videos][Chandra X-rayObservatory]]
+- [[https://www.youtube.com/channel/UClZbmi9JzfnB2CEb0fG8iew/videos][Primal  Space]]
+- [[https://www.youtube.com/vintagespace/videos][The Vintage Space]]
+- [[https://www.youtube.com/channel/UC0QdW-H7_l0zh_CoNhlwoBw/videos][ParallaxNick]]
+
+** Lectures:
+:PROPERTIES:
+:CUSTOM_ID: lectures
+:END:
+- [[https://www.youtube.com/c/crashcourse/playlists?view=1&sort=dd&shelf_id=0][Crash  Course]]
+- [[https://www.youtube.com/c/khanacademy/playlists?view=1&sort=dd&shelf_id=0][Khan  Academy]]
+- [[https://www.youtube.com/c/AKLECTURES/playlists?view=1&sort=dd&shelf_id=0][AK  Lectures]]
+- [[https://www.youtube.com/c/MichelvanBiezen/playlists?view=1&sort=dd&shelf_id=0][Michel  van Biezen]]
+- [[https://www.youtube.com/c/mitocw/playlists?view=1&sort=dd&shelf_id=0][MIT  OpenCourseWare]]
+- [[https://www.youtube.com/bozemanscience/playlists][Bozeman  Science]] - physics, biology
+- [[https://www.youtube.com/user/YaleCourses/playlists][YaleCourses]]
+- [[https://www.youtube.com/user/harvardphysics/playlists][Harvard  Physics]]
+- [[https://www.youtube.com/c/ProfessorDaveExplains/playlists?view=1&sort=dd&shelf_id=0][Professor  Dave Explains]] - chemistry, anatomy
+
+** General Explanation:
+:PROPERTIES:
+:CUSTOM_ID: general-explanation
+:END:
+- [[https://www.youtube.com/c/inanutshell/videos][Kurzgesagt - In a  Nutshell]]
+- [[https://www.youtube.com/user/Top10Memes/videos][Lemmino]]
+- [[https://www.youtube.com/user/melodysheep/videos][melodysheep]]
+- [[https://www.youtube.com/c/MikeBoydVideo/videos][Mike Boyd]]
+- [[https://www.youtube.com/user/Wendoverproductions/videos][Wendover  Productions]]
+- [[https://www.youtube.com/c/joescott/videos][Joe Scott]]
+- [[https://www.youtube.com/channel/UClq42foiSgl7sSpLupnugGA/videos][D!NG]]
+- [[https://www.youtube.com/c/halfasinteresting/videos][Half as  Interesting]]
+- [[https://www.youtube.com/c/TomScottGo/videos][Tom Scott]]
+- [[https://www.youtube.com/c/PrimerLearning/videos][Primer]]
+- [[https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA/videos][New  Mind]]
+- [[https://www.youtube.com/user/Vsauce/videos][Vsauce]]
+- [[https://www.youtube.com/user/Vsauce2/videos][Vsauce2]]
+- [[https://www.youtube.com/user/TEDEducation/videos][TED-Ed]]
+- [[https://www.youtube.com/c/AtomicFrontier/videos][Atomic Frontier]]
+- [[https://www.youtube.com/channel/UCoanlfeXEit_vI83VlE709A/videos][Facts  in Motion]]
+- [[https://www.youtube.com/user/captainranic/videos][Jared Owen]]
+- [[https://www.youtube.com/c/Koranos/videos][Koranos]]
+- [[https://www.youtube.com/c/ArtOfTheProblem/videos][Art of the  Problem]]
+- [[https://www.youtube.com/c/RealLifeLore/videos][RealLifeLore]]
+- [[https://www.youtube.com/c/Vox/videos][Vox]]
+- [[https://www.youtube.com/greymatter/videos][CGP Grey]]
+- [[https://www.youtube.com/channel/UCHKRfxkMTqiiv4pF99qGKIw/videos][Geographics]]
+- [[https://www.youtube.com/c/Biographics/videos][Biographics]]
+
+** Iconic:
+:PROPERTIES:
+:CUSTOM_ID: iconic
+:END:
+- [[https://www.youtube.com/user/SethEverman/videos][SethEverman]]
+- [[https://www.youtube.com/c/DillonTheHackerisgod/videos][Dillon The  Hacker]]
+- [[https://www.youtube.com/user/billwurtz/videos][bill wurtz]]
+
+** Motivation:
+:PROPERTIES:
+:CUSTOM_ID: motivation
+:END:
+- [[https://www.youtube.com/user/TheMiro0r/videos][Mateusz M]]
+
+** Music:
+:PROPERTIES:
+:CUSTOM_ID: music
+:END:
+- [[https://www.youtube.com/c/12tonevideos/videos][12tone]] - music  theory
+- [[https://www.youtube.com/user/tonyannmusic/videos][Tony Ann]] - piano
+- [[https://www.youtube.com/c/kylelandry/videos][Kyle Landry]] - piano
+- [[https://www.youtube.com/c/PaulDavids/videos][Paul Davids]] - guitar
+- [[https://www.youtube.com/c/AlexBallMusic/videos][Alex Ball]] - synths
+- [[https://www.youtube.com/channel/UCq3Wpi10SyZkzVeS7vzB5Lw/videos][Ichika  Nito]] - guitar
+- [[https://www.youtube.com/c/ibiBerlin/videos][ibi]]- piano
+- [[https://www.youtube.com/c/mariffroes/videos][Mariana Froes]] -  singing covers
+- [[https://www.youtube.com/c/CharlesBerthoud/videos][CharlesBerthoud]] -  bass
+- [[https://www.youtube.com/c/danielthrasher/videos][Daniel Thrasher]]
+- [[https://www.youtube.com/c/TheDooo/videos][The Dooo]] - electric  guitar
+- [[https://www.youtube.com/c/HarryMack/videos][Harry Mack]] - freestyle  rap
+- [[https://www.youtube.com/channel/UCxqkOxQYocXRtSqlotgXh7w/videos][Fkj]]
+- [[https://www.youtube.com/c/MarcusVeltri/videos][Markus Veltri]] -  piano
+- [[https://www.youtube.com/c/MarcRebillet/videos][Marc Rebillet]] -  improv music
+- [[https://www.youtube.com/c/DOMiJDBeck/videos][DOMi & JD Beck]]
+- [[https://www.youtube.com/c/lara6683/videos][Lara6683]] - piano
+- [[https://www.youtube.com/c/majesticcasual/videos][Majestic Casual]]
+- [[https://www.youtube.com/user/MrSuicideSheep/videos][MrSuicideSheep]]
+- [[https://www.youtube.com/c/steezyasfvck/videos][Steezyasfuck]]
+- [[https://www.youtube.com/c/AdamNeely/videos][Adam Neely]]
+- [[https://www.youtube.com/c/DBruce/videos][David Bruce Composer]]
+- [[https://www.youtube.com/c/Sideways440/videos][Sideways]] - music  analysis
+- [[https://www.youtube.com/c/8bitMusicTheory/videos][8-bit Music  Theory]]
+- [[https://www.youtube.com/c/CaptainPikant/videos][Captain Pikant]]
+- [[https://www.youtube.com/c/ELECTRONICOSFANTASTICOS_YT/videos][Electrónicos  Fantásticos!]]
+- [[https://www.youtube.com/c/dolomuse/videos][Dolomuse]]
+- [[https://www.youtube.com/c/ListeningIn/videos][Listening In]]
+- [[https://www.youtube.com/c/Tantacrul/videos][Tantacrul]]
+- [[https://www.youtube.com/c/CharlesCornellStudios/videos][Charles  Cornell]]
+- [[https://www.youtube.com/c/DavidBennettPiano/videos][David Bennett  Piano]]
+
+** Chill:
+:PROPERTIES:
+:CUSTOM_ID: chill
+:END:
+- [[https://www.youtube.com/user/damewse/videos][Reid Gower]] - feynman,  sagan
+- [[https://www.youtube.com/c/hsinchuen/videos][Hsinchuen Lin]] -  ceramics
+- [[https://www.youtube.com/c/IngletonPottery/videos][Ingleton  Pottery]][[https://www.youtube.com/user/billwurtz/videos]]
+- [[https://www.youtube.com/channel/UCLGSpxD0XXHnbXtDJJqMqDw/videos][Yukikawae]] -  sand drawing
+- [[https://www.youtube.com/c/MacroRoom/videos][Macro Room]]
+
+** Outdoors:
+:PROPERTIES:
+:CUSTOM_ID: outdoors
+:END:
+- [[https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos][Primitive  Technology]]
+- [[https://www.youtube.com/c/Selfsufficientme/videos][Self Sufficient  Me]] - gardening
+- [[https://www.youtube.com/c/KraigAdams/videos][Kraig Adams]] - hiking
+- [[https://www.youtube.com/playlist?list=PLiUJqMrz7-QNMcyiGo5mBhdqXqSM1XJQH][Alaska  to Argentina on Honda 90's]]
+- [[https://www.youtube.com/c/BeauMiles/videos][Beau Miles]]
+- [[https://www.youtube.com/c/RuneMalteBertramNielsen/videos][Bertram -  Craft and Wilderness]]
+- [[https://www.youtube.com/playlist?list=PLJQsrK_W2jnhITiPMzU_q6o2jxsvMXmVT][Patagonia]]
+- [[https://www.youtube.com/user/AlfieAesthetics/videos][AlfieAesthetics]]
+- [[https://www.youtube.com/c/LearnYourLand/videos][Learn Your Land]]
+- [[https://www.youtube.com/c/YellowElanor/videos][Yellow Elanor]]
+- [[https://www.youtube.com/c/paulstametsofficial/videos][Paul  Stamets]]- mycology
+- [[https://www.youtube.com/c/MCQBushcraft/videos][MCQBushcraft]]
+- [[https://www.youtube.com/c/NagualeroArt/videos][Nagualero]]
+- [[https://www.youtube.com/c/PrimitiveSkillsnet/videos][Primitive  Skills]]
+- [[https://www.youtube.com/c/BoundForNowhere/videos][Bound For  Nowhere]]
+- [[https://www.youtube.com/user/forestyforest/videos][Foresty Forest]]
+- [[https://www.youtube.com/c/JungleSurvival/videos][Jungle Survival]] -  fake, but cool
+- [[https://www.youtube.com/c/PrimitiveSurvivalTool/videos][Primitive  Survival Tool]] - fake, but cool
+
+** Travel:
+:PROPERTIES:
+:CUSTOM_ID: travel
+:END:
+- [[https://www.youtube.com/c/IndigoTraveller/videos][Indigo Traveller]]
+- [[https://www.youtube.com/c/gabejedmo/videos][Gabriel Traveler]]
+- [[https://www.youtube.com/user/karlwatson18/videos][Karl Watson]]
+- [[https://www.youtube.com/c/ChristophRehage/videos][Christoph  Rehage]]- asia, europe
+- [[https://www.youtube.com/playlist?list=PLiUJqMrz7-QNMcyiGo5mBhdqXqSM1XJQH][c90adventures]] -  north, south, and central america
+- [[https://www.youtube.com/c/JohnDaub/videos][Only in Japan]]
+- [[https://www.youtube.com/c/travellingtheunknown/videos][travelling  the unknown]]
+- [[https://www.youtube.com/c/TheTimTraveller/videos][The Tim  Traveller]]
+- [[https://www.youtube.com/c/ElifromRussia/videos][Eli from Russia]]
+- [[https://www.youtube.com/c/ricksteves/videos?view=0&sort=dd&flow=grid][Rick  Steves' Europe]]
+- [[https://www.youtube.com/c/KurtCaz/videos][Kurt Caz]]
+- [[https://www.youtube.com/c/baldandbankrupt/videos][bald and  bankrupt]]
+
+** History:
+:PROPERTIES:
+:CUSTOM_ID: history
+:END:
+- [[https://www.youtube.com/channel/UC1DTYW241WD64ah5BFWn4JA/videos][Sam  O'Nella Academy]]
+- [[https://www.youtube.com/c/TenMinuteHistory/videos][History Matters]]
+- [[https://www.youtube.com/c/toldinstone/videos][toldinstone]]
+- [[https://www.youtube.com/user/dancarlinpodcaster/videos][Dan Carlin]]
+- [[https://www.youtube.com/c/TimeGhost/videos][TimeGhost History]]
+- [[https://www.youtube.com/c/KingsandGenerals/videos][Kings and  Generals]]
+- [[https://www.youtube.com/c/TheHistoryGuyChannel/videos][The History  Guy]]
+- [[https://www.youtube.com/c/JayForeman/videos][Jay Foreman]]
+- [[https://www.youtube.com/c/TheOperationsRoom/videos][The Operations  Room]]
+- [[https://www.youtube.com/c/HistoriaCivilis/videos][Historia Civilis]]
+- [[https://www.youtube.com/c/ConeOfArc/videos][ConeOfArc]]
+- [[https://www.youtube.com/c/PaperSkiesAviation/videos][Paper Skies]]
+- [[https://www.youtube.com/c/DanDavisAuthorChannel/videos][Dan Davis  History]]
+- [[https://www.youtube.com/c/HistoryBuffsLondon/videos][History Buffs]]
+- [[https://www.youtube.com/c/MilitaryHistory/videos][Military History  Visualized]]
+- [[https://www.youtube.com/c/HistoryMarche/videos][HistoryMarche]]
+- [[https://www.youtube.com/c/OverSimplified/videos][OverSimplified]]
+- [[https://www.youtube.com/user/Fireoflearning/videos][Fire of  Learning]]
+- [[https://www.youtube.com/c/TheGreatWarSeries/videos][The Great War]]
+- [[https://www.youtube.com/c/Drachinifel/videos][Drachinifel]]
+- [[https://www.youtube.com/c/lindybeige/videos][Lindybeige]]
+- [[https://www.youtube.com/c/InrangeTvShow/videos][InRangeTV]]
+- [[https://www.youtube.com/c/InvictaHistory/videos][Invicta]]
+- [[https://www.youtube.com/c/ForgottenWeapons/videos][Forgotten  Weapons]]
+- [[https://www.youtube.com/c/FallofCivilizationsPodcast/videos][Fall of  Civilizations]]
+- [[https://www.youtube.com/c/TastingHistory/videos][Tasting History  with Max Miller]]
+- [[https://www.youtube.com/c/WeirdHistory/videos][Weird History]]
+- [[https://www.youtube.com/c/RealCrusadesHistory/videos][Real Crusades  History]]
+- [[https://www.youtube.com/c/TheChieftainsHatch/videos][The Chieftain]]
+- [[https://www.youtube.com/c/Knowledgia/videos][Knowledgia]]
+- [[https://www.youtube.com/extracredits/videos][Extra Credits]]
+- [[https://www.youtube.com/c/RexsHangar/videos][Rex's Hangar]]
+- [[https://www.youtube.com/playlist?list=PLB2vhKMBjSxO1lsrC98VOyOzfW0Gn8Tga][WW1  [Playlist]]
+- [[https://www.youtube.com/playlist?list=PLsIk0qF0R1j4Y2QxGw33vYu3t70CAPV7X][WW2  [Playlist]]
+
+** Documentaries:
+:PROPERTIES:
+:CUSTOM_ID: documentaries
+:END:
+- [[https://www.youtube.com/c/Channel5YouTube/videos][Channel 5 with  Andrew Callaghan]]
+- [[https://www.youtube.com/c/frontline/videos][FRONTLINE PBS |  Official]]
+- [[https://www.youtube.com/channel/UCtqxG9IrHFU_ID1khGvx9sA/videos][All  Gas No Brakes]]
+- [[https://www.youtube.com/channel/UCOuf_kStlWnhuauw4ce8l-w][Kimgary]]
+- [[https://www.youtube.com/c/DWDocumentary/videos][DW Documentary]]
+- [[https://www.youtube.com/c/VICE/videos][VICE]]
+
+** Workshop:
+:PROPERTIES:
+:CUSTOM_ID: workshop
+:END:
+- [[https://www.youtube.com/c/Matthiaswandel/videos][Matthias Wandel]] -  woodworking
+- [[https://www.youtube.com/c/arduinoversusevil2025/videos][AvE]]
+- [[https://www.youtube.com/c/Blondihacks/videos][Blondihacks]] -  machining
+- [[https://www.youtube.com/user/dgelbart/videos][Dan Gelbart]] -  machining
+- [[https://www.youtube.com/c/simonegiertz/videos][Simone Giertz]]
+- [[https://www.youtube.com/c/CosmasBauer/videos][Cosmas Bauer]]
+- [[https://www.youtube.com/c/ThisOldTony/videos][This Old Tony]]
+- [[https://www.youtube.com/c/mrpete222/videos][Mrpete222]]
+- [[https://www.youtube.com/c/myfordboy/videos][Myfordboy]]
+- [[https://www.youtube.com/user/luckygen1001/videos][Luckygen1001]]
+- [[https://www.youtube.com/c/TipsfromaShipwrightvideos/videos][Tips  from a Shipwright]]
+- [[https://www.youtube.com/c/EngelsCoachShop1/videos][EngelsCoachShop]]
+- [[https://www.youtube.com/c/TheLuminaryShoppe/videos][The Luminary  Shoppe]]
+- [[https://www.youtube.com/c/machinethinking/videos][Machine  Thinking]]- machining
+- [[https://www.youtube.com/playlist?list=PLF06SHGgSg4Fk5-yeh8DN3g6ZgaM0tbk7][MIT  Machine Shop]] - machining
+- [[https://www.youtube.com/channel/UCpp6lgdc_XO_FZYJppaFa5w/videos][Joe  Pieczynski]]
+- [[https://www.youtube.com/c/Clickspring/videos][Clickspring]]
+- [[https://www.youtube.com/c/kludge1977/videos][Peter Brown]] - resin
+- [[https://www.youtube.com/c/WhyKnot/videos][WhyKnot]] - knots
+- [[https://www.youtube.com/c/mrballeng/videos][First Class Amateur]] -  knots
+
+** Blue Collar:
+:PROPERTIES:
+:CUSTOM_ID: blue-collar
+:END:
+- [[https://www.youtube.com/c/chrisfix/videos][ChrisFix]] - automotive
+- [[https://www.youtube.com/c/HVACRVIDEOS/videos][HVAC-R Videos]]
+- [[https://www.youtube.com/c/speedkar99/videos][Speedkar99]] -  automotive
+- [[https://www.youtube.com/c/acservicetechchannel/videos][AC Service  Tech LLC]] - HVAC
+- [[https://www.youtube.com/c/HVACSchool/videos][HVAC School]]
+- [[https://www.youtube.com/c/WordofAdviceTV/videos][Word of Advice  TV]] - HVAC, plumbing
+- [[https://www.youtube.com/c/MikeHoltNEC/videos][MikeHoltNEC]] -  electrical
+- [[https://www.youtube.com/c/ProjectFarm/videos][Project Farm]] -  tools, DIY
+- [[https://www.youtube.com/c/ElectricianU/videos][Electrician U]]
+- [[https://www.youtube.com/c/essentialcraftsman/videos][Essential  Craftsman]] - construction
+- [[https://www.youtube.com/c/RRBuildings/videos][RR Buildings]] -  construction
+- [[https://www.youtube.com/c/PerkinsBuilderBrothers/videos][Perkins  Builder Brothers]] - construction
+- [[https://www.youtube.com/c/InsiderCarpentry/videos][Insider  Carpentry]]
+- [[https://www.youtube.com/c/Fixthisbuildthat/videos][Fix This Build  That]]
+
+** Comedy:
+:PROPERTIES:
+:CUSTOM_ID: comedy
+:END:
+- [[https://www.youtube.com/c/VlogCreations/videos][Vlog Creations]]
+- [[https://www.youtube.com/c/CasuallyExplained/videos][Casually  Explained]]
+- [[https://www.youtube.com/user/TheAlexErnstShow/videos][Alex Ernst]] -  apple cider vinegar
+- [[https://www.youtube.com/c/LessonsinMemeCulture/videos][Lessons in  Meme Culture]]
+- [[https://www.youtube.com/c/SomethingAboutChickens/videos][SomethingAboutChickens]]
+- [[https://www.youtube.com/c/KillTony/videos][Kill Tony]] - stand up
+- [[https://www.youtube.com/gags/videos?view=0&sort=p&flow=grid][Just  For Laughs Gags]]
+- [[https://www.youtube.com/c/songify/videos][schmoyoho]]
+- [[https://www.youtube.com/c/Berdboi/videos][Berd]]
+- [[https://www.youtube.com/user/commentiquette/videos][Internet Comment  Etiquette]]
+- [[https://www.youtube.com/c/surrealentertainment/videos][surreal  entertainment]]
+- [[https://www.youtube.com/c/threemad/videos][twomad]]
+- [[https://www.youtube.com/c/JellesMarbleRuns/videos][Jelle's Marble  Runs]]
+- [[https://www.youtube.com/channel/UCGFbXza-uSFzUjXlQbCerFg/videos][Tico  & the Man Frank Maglio]]
+- [[https://www.youtube.com/c/CartNarcs/videos][Cart Narcs]]
+
+** Philosophy:
+:PROPERTIES:
+:CUSTOM_ID: philosophy
+:END:
+- [[https://www.youtube.com/user/willunicycleforfood/videos][Exurb1a]]
+- [[https://www.youtube.com/user/obscuresorrows/videos][Dictionary of  Obscure Sorrows]]
+- [[https://www.youtube.com/c/Sisyphus55/videos][Sisyphus 55]]
+- [[https://www.youtube.com/c/PursuitofWonder/videos][Pursuit of  Wonder]]
+
+** Gaming:
+:PROPERTIES:
+:CUSTOM_ID: gaming
+:END:
+- [[https://www.youtube.com/c/FrostV45/videos][Frost]]
+- [[https://www.youtube.com/user/XboxAhoy/videos][Ahoy]]
+- [[https://www.youtube.com/c/HollowPoiint/videos][Hollow]]
+- [[https://www.youtube.com/c/theRadBrad/videos][theRadBrad]]
+- [[https://www.youtube.com/c/MKIceAndFire/videos][MKIceAndFire]]
+- [[https://www.youtube.com/user/videogamedunkey/videos][videogamedunkey]]
+- [[https://www.youtube.com/c/ThrillSeekerVR/videos][ThrillSeeker]]
+
+** Cooking:
+:PROPERTIES:
+:CUSTOM_ID: cooking
+:END:
+- [[https://www.youtube.com/c/CookingWithTheBlues/videos][Cooking With  The Blues]]
+- [[https://www.youtube.com/c/JKenjiLopezAlt/videos][J. Kenji  López-Alt]]
+- [[https://www.youtube.com/c/chaplinsrestaurant/videos][Chaplin'sClassics]]
+- [[https://www.youtube.com/c/ChineseCookingDemystified/videos][Chinese  Cooking Demystified]]
+- [[https://www.youtube.com/c/WILYEUNG/videos][Yeung Man Cooking]]
+- [[https://www.youtube.com/c/samthecookingguy/videos][SAM THE COOKING  GUY]]
+- [[https://www.youtube.com/c/TastingHistory/videos][Tasting History  with Max Miller]]
+- [[https://www.youtube.com/c/JoshuaWeissman/videos][Joshua Weissman]]
+- [[https://www.youtube.com/c/bingingwithbabish/videos][Babish Culinary  Universe]]
+- [[https://www.youtube.com/user/aragusea/videos][Adam Ragusea]]
+- [[https://www.youtube.com/c/MINUTEFOOD/videos][MinuteFood]]
+
+** Houseplants and Terrariums:
+:PROPERTIES:
+:CUSTOM_ID: houseplants-and-terrariums
+:END:
+- [[https://www.youtube.com/c/Planterina/videos][PLANTERINA]] -  houseplants
+- [[https://www.youtube.com/c/NickPileggiPlants/videos][Nick Pileggi]] -  houseplants
+- [[https://www.youtube.com/c/SerpaDesign/videos][SerpaDesign]] -  terrariums
+- [[https://www.youtube.com/c/AsuGreen11/videos][Asu]] - terrariums
+- [[https://www.youtube.com/c/Jartopia/videos][Jartopia]] - terrariums
+- [[https://www.youtube.com/c/MDFishTanks/videos][MD Fish Tanks]]
+
+** Other:
+:PROPERTIES:
+:CUSTOM_ID: other
+:END:
+- [[https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw/videos][Internet  Historian]]
+- [[https://www.youtube.com/c/bionerd23/videos][Bionerd23]]
+- [[https://www.youtube.com/c/VagrantHoliday/videos][Vagrant Holiday]]
+- [[https://www.youtube.com/c/VLSkate/videos][VLSkate]] - skateboarding
+- [[https://www.youtube.com/c/lockpickinglawyer/videos][LockPickingLawyer]] -  lock picking
+- [[https://www.youtube.com/user/EdwardCurrent/videos][EdwardCurrent]]
+- [[https://www.youtube.com/user/theslowmoguys/videos][The Slow Mo  Guys]]
+- [[https://www.youtube.com/c/ObjectivityVideos/videos][Objectivity]]
+- [[https://www.youtube.com/channel/UC8Q7XEy86Q7T-3kNpNjYgwA/videos][Incognito  Mode]]
+- [[https://www.youtube.com/user/AhSharkee/videos][Sharkee]]
+- [[https://www.youtube.com/channel/UCIWEHR8n8GiLMWY8v7IP0Gg/videos][Mikasacus]]
+- [[https://www.youtube.com/user/ehochzwei/videos][Thomas Schwenke]]
+- [[https://www.youtube.com/c/Seeker/videos][Seeker]]
+- [[https://www.youtube.com/c/BGKumbi/videos][BG Kumbi]]
+- [[https://www.youtube.com/c/DisruptReality/videos][Disrupt]]
+- [[https://www.youtube.com/channel/UCQMyhrt92_8XM0KgZH6VnRg/videos][Company  Man]]
+- [[https://www.youtube.com/user/BookingHunterTV/videos][Booking Hunter  TV]]
+- [[https://www.youtube.com/c/Savjee/videos][Simply Explained]]
+- [[https://www.youtube.com/c/CaptainDisillusion/videos][Captain  Disillusion]]
+- [[https://www.youtube.com/c/RobinBaumgarten/videos][Robin Baumgarten]]
+- [[https://www.youtube.com/c/DailyDoseOfInternet/videos][Daily Dose Of  Internet]]
+- [[https://www.youtube.com/user/sciencium/videos][Sciencium]]
+- [[https://www.youtube.com/c/RareEarthSeries/videos][Rare Earth]]
+- [[https://www.youtube.com/c/hochelaga/videos][hochelaga]]
+- [[https://www.youtube.com/c/NotJustBikes/videos][Not Just Bikes]]
+- [[https://www.youtube.com/user/blancolirio/videos][blancolirio]][[ https://www.youtube.com/vintagespace/videos]]
+- [[https://www.youtube.com/c/grandillusions/videos][Grand Illusions]]
+- [[https://www.youtube.com/channel/UCMjTcpv56G_W0FRIdPHBn4A/videos][Biblaridion]]
+- [[https://www.youtube.com/c/FranBlanche/videos][Fran Blanche]]
+- [[https://www.youtube.com/user/Nerdwriter1/videos][Nerdwriter1]]
+- [[https://www.youtube.com/c/ShawnWoodsprimitive-archer/videos][Shawn  Woods]] - mouse traps
+- [[https://www.youtube.com/channel/UCM86hA7E1y3vOJuzdqCXh1Q/videos][Mark  Novak]] - firearms
+- [[https://www.youtube.com/c/StrangeParts/videos][Strange Parts]]
+- [[https://www.youtube.com/user/rossmanngroup/videos][Louis Rossmann]]
+- [[https://www.youtube.com/c/CalumRaasay/videos][Calum]]
+- [[https://www.youtube.com/c/RODALCO2007/videos][RODALCO2007]]
+- [[https://www.youtube.com/channel/UCqjRIH8FlI9jpTy74hv-r8w/videos][Jarett  Gross]] - 3D printed houses
+- [[https://www.youtube.com/c/williamosman/videos][William Osman]]
+- [[https://www.youtube.com/c/SufficientlyAdvanced/videos][Allen Pan]]
+- [[https://www.youtube.com/c/Ididathing/videos][I did a thing]]
+- [[https://www.youtube.com/c/CNCKitchen/videos][CNC Kitchen]]
+- [[https://www.youtube.com/c/KnowingBetter/videos][Knowing Better]]
+- [[https://www.youtube.com/c/MakersMuse/videos][Maker's Muse]]
+- [[https://www.youtube.com/user/stewarthicks/videos][Stewart Hicks]]
+- [[https://www.youtube.com/c/Jazza/videos][Jazza]]
+- [[https://www.youtube.com/c/acapellascience/videos?view=0&sort=p&flow=grid][acapellascience]] -  science songs
+- [[https://www.youtube.com/c/JungleSurvival/videos][Jungle Survival]] -  fake, but cool
+- [[https://www.youtube.com/c/PrimitiveSurvivalTool/videos][Primitive  Survival Tool]] - fake, but cool
+
+** Podcasts:
+:PROPERTIES:
+:CUSTOM_ID: podcasts
+:END:
+- [[https://www.youtube.com/c/lexfridman/videos][Lex Fridman]]- long  form podcasts with the world's greatest minds
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9tYXRlcmlhbGlzbQ?sa=X&ved=0CBoQ27cFahcKEwjgj5L-4Kr0AhUAAAAAHQAAAAAQQg][Materialism]] -  material science
+- [[https://www.wnycstudios.org/podcasts/radiolab/radiolab-memorable-episode-results][Radiolab]] -  investigative journalism with sexy sound design
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vSFNXODkzNjQ0MDYyNw][Invention]] -exploring different inventions
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvYWFlYTRlNjktYWY1MS00OTVlLWFmYzktYTk3NjAxNDY5MjJiLzkzZTI3MWJmLTU3ZGEtNDUyNi05MzdhLWFiMDQwMDI0MzczMi8xNWI2OWRhMS0yMDAwLTRmMzUtYTNlYy1hYjA0MDAyNDM3NGYvcG9kY2FzdC5yc3M][This  podcast will kill you]] - disease and epidemiology
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9kY2hoYWRkZW5kdW0ubGlic3luLmNvbS9yc3M][Hardcore  History]] - history in depth
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5mZWVkYnVybmVyLmNvbS9PbG9naWVz][Ologies]] -  interviewing people with different science jobs
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuYmlnYmlvbG9neS5vcmcvcnNzLWZlZWQ_Zm9ybWF0PXJzcw][Big  Biology]] - biology
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9hc3Ryb25vbXljYXN0LmxpYnN5bi5jb20vcnNz][Astronomy  Cast]] - astronomy
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vc3R1ZmZ0b2Jsb3d5b3VybWluZA][Stuff  to blow your mind]] - random cool stuff
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9vcmlnaW5zdG9yaWVzLmxpYnN5bi5jb20vcnNz][Origin Stories]] - evolution, anthropology
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9hdWRpb2Jvb20uY29tL2NoYW5uZWxzLzUwMTY3NjMucnNz][Life's  Little Mysteries]] - general science
+- [[https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLndueWMub3JnL1RoZUFudGhyb3BvY2VuZVJldmlld2Vk][The  Anthropocene Reviewed]] - reviewing aspects of earth on a 5 star scale
+- [[https://www.bbc.co.uk/programmes/p04b1g3c/episodes/downloads][50  things that made the modern economy]]
+- [[https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzLzM1MTM2NzYxLW1pbmR0b21hdHRlci90cmFja3M][Speaking  of bitcoin]] - general cryptocurrency discussion
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0cy5maWxlcy5iYmNpLmNvLnVrL3cxM3h0dHc3LnJzcw][30  animals that made us smarter]]
+- [[https://podcasts.google.com/search/Huberman%20Lab][Huberman Lab]] -neuroscience
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9hZnRlcm9uLmxpYnN5bi5jb20vcnNz][After  On - Rob Reid]] - science and technology
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9hYW50b25vcC5jb20vY2F0ZWdvcnkvcG9kY2FzdHMvdW5zY3J5cHRlZC1wb2QvZmVlZC9wb2RjYXN0Lw][Unscrypted  Podcast]] - explanation of cryptocurrency
+- [[https://podcasts.google.com/feed/aHR0cDovL3R3aXYubWljcm9iZXdvcmxkLmxpYnN5bnByby5jb20vdHdpdg][TWIV]] -  the current state of virology
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5tZWdhcGhvbmUuZm0vZGFuaWVsYW5kam9yZ2VleHBsYWludGhldW5pdmVyc2U][Daniel  and Jorge explain the universe]] - cosmology, particle physics
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvZDk1ZGEyMDYtOGVlOC00YmE1LWJhOGQtYWQxMjAwYjRlNWE0L2NmMTNkNWY1LTYwNDAtNDU4ZC1hYjVhLWFkMjAwMTg5NzQ3ZC9iNzVjOWY3Zi00YTYzLTQzOGUtYjUwNi1hZDIwMDE4OTc0OTkvcG9kY2FzdC5yc3M][Planetary  Radio]] - space exploration, astronomy
+- [[https://podcasts.google.com/feed/aHR0cDovL3d3dy5wbGFuZXRhcnkub3JnL3N5c3RlbS9yc3MvY2hhbm5lbC5qc3A_ZmVlZElEPTQxMzgwMjUwMA][Planetary  Radio: Space Policy Edition]]
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5yZWRjaXJjbGUuY29tL2M2ZDJlODY5LTIyYWUtNGU2OC1iODhlLWUxOTU3ZDA3MGQzYQ][Safety  Third]] - hosted by popular science YouTubers
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9iaW9sb2dpYy5saWJzeW4uY29tL3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwiwlp3c-t71AhUAAAAAHQAAAAAQAQ&hl=en][The  Biologic Podcast]]
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNDUzMDA2MS9lcGlzb2Rlcy9mZWVk?hl=en][Talk  Nerdy with Cara]]
+- [[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnRoZXNrZXB0aWNzZ3VpZGUub3JnL2ZlZWQvcnNzLmFzcHg_ZmVlZD1zZ3U/episode/aHR0cHM6Ly93d3cudGhlc2tlcHRpY3NndWlkZS5vcmcvcG9kY2FzdC9zZ3UvODY0?hl=en&ved=2ahUKEwifiZOfgN_1AhVjk2oFHU_-BYQQieUEegQIAhAF&ep=6][The  Skeptics Guide to the Universe]]
+
+** Useful Websites:
+:PROPERTIES:
+:CUSTOM_ID: useful-websites
+:END:
+- [[https://sci-hubtw.hkvisa.net/][SciHub]] - remove academic paper
+  paywalls
+- [[https://www.khanacademy.org/][KhanAcademy]] - learn anything
+- [[https://soap2day.ac/enter.html][Soap2Day]] - movies/shows
+- [[https://b-ok.cc/][Book4You]] - books/textbooks
+- [[https://www.firmoo.com/][Firmoo]] - buy prescription glasses for
+  cheap ($20 USD+)
+- [[https://costplusdrugs.com/][CostPlusDrugs.com]] - affordably
+  purchase medicine without insurance
+- [[https://en.wikipedia.org/wiki/List_of_years_in_science][Wikipedia
+  Years in Science]] - key discoveries over the years
+- [[https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md][GitHub]] -
+  find and share code
+- [[https://codepen.io/2020/popular/pens/1][CodePen]] - GitHub but for
+  web developers
+- [[https://outline.com/][Outline]] - removes some article paywalls
+- [[https://www.vocabulary.com/dictionary/][Vocabulary.com]] - simple
+  definitions for hard words
+- [[https://www.goodreads.com/][Goodreads]] - find, rate, and review
+  books
+- [[https://www.friendspire.com/][Friendspire]] - social media for
+  ranking movies, books, etc.
+- [[https://sync-tube.de/][SyncTube]] - watch YouTube videos together
+- [[https://www.music-map.com/][MusicMap]] - find similar music artists
+- [[https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/edit][Find  papers, articles, and books]]
+
+** Browser Extensions:
+:PROPERTIES:
+:CUSTOM_ID: browser-extensions
+:END:
+- [[https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US][Dark  Reader]]- turn any webpage dark themed
+- [[https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en][Toby]] -
+  manage tabs and bookmarks
+- [[https://github.com/iamadamdev/bypass-paywalls-chrome][Remove article  paywalls]] - removes paywalls for all news articles
+- [[https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en][Video  Speed Controller]] - speed up any web videos by custom threshold
+- [[https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk?hl=en][Webtime  Tracker]] - track how much time you spend on sites
+- [[https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?hl=en][Distill  Web Monitor]] - monitor websites/blogs for updates
+- [[https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=en-US][Image  Downloader]] - download any image from webpage
+- [[https://chrome.google.com/webstore/detail/earth-view-from-google-ea/bhloflhklmhfpedakmangadcdofhnnoh?hl=en][Earth  View]] - google earth image for each new tab
+- [[https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja?hl=en][I  don't care about cookies]] - auto accept cookies
+- [[https://chrome.google.com/webstore/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh][Blocksite]] -  block distracting sites
+- [[https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid?hl=en][Unhook]] -  remove YouTube recommended
+- [[https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=en-US][Enhancer  for YouTube]] - loads of customization for YouTube
+
+** Online Learning:
+:PROPERTIES:
+:CUSTOM_ID: online-learning
+:END:
+- [[https://www.khanacademy.org/][KhanAcademy]] - learn anything
+- [[https://scrimba.com/][Scrimba]] - learn how to code interactively
+- [[https://lumenlearning.com/courses/][LumenLearning]]
+- [[https://www.coursera.org/][Coursera]]
+- [[https://www.udemy.com/][uDemy]]
+- [[https://www.edx.org/][edX]]
+- [[https://www.skillshare.com/][SkillShare]]
+- [[https://ocw.mit.edu/index.htm][MIT OpenCourseware]]
+
+** Software:
+:PROPERTIES:
+:CUSTOM_ID: software
+:END:
+- [[https://www.voidtools.com/downloads/][Everything]] - search files on  computer instantaneously
+- [[https://calibre-ebook.com/download][Calibre]] - eBook manager
+- [[https://justgetflux.com/][F.lux]] - custom screen tinting/remove  blue light
+- [[https://www.cpuid.com/][CPUID]] - detailed system information
+- [[https://obsidian.md/][Obsidian]] - note taking with a twist
+- [[https://windirstat.net/download.html][WinDirStat]] - visualize disk  usage/mange space
+- [[https://www.macrium.com/reflectfree][Macrium]] - backup computer  image
+- [[https://notepad-plus-plus.org/downloads/][Notepad++]] - better  version of notepad
+- [[https://app.prntscr.com/en/index.html][Lightshot]] - screenshots
+- [[https://www.bulkrenameutility.co.uk/][Bulk Rename Utility]] - batch  rename files
+- [[https://fontba.se/][Fontbase]] - font manager
+- [[https://synthesiagame.com/][Synthesia]] - learn piano from MIDI  files
+- [[https://store.steampowered.com/app/431960/Wallpaper_Engine/][Wallpaper  Engine]] - animated desktop/mobile wallpapers
+
+** Other Websites:
+:PROPERTIES:
+:CUSTOM_ID: other-websites
+:END:
+- [[https://labs.openai.com/][DALLE]] - AI art generation
+- [[https://www.onesimplewish.org/][OneSimpleWish]] - charity to  purchase items for foster kids
+- [[https://www.random-website.com/][RandomWebsite]] - goes to a random  website
+
+** Misc:
+:PROPERTIES:
+:CUSTOM_ID: misc
+:END:
+- [[https://github.com/ErikCH/DevYouTubeList][Developer YouTube  Channels]]
+- [[https://docs.google.com/document/d/1E_aXWapEBnNRg0KWZTcNTesV31vbCzYxWKoYTszS-iE/edit?usp=sharing][Climate  Change Info]]
+- [[https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md][Piracy  Megathread]]
+- [[https://book4you.org/booklist/99231/aa21a5][Book List]]
