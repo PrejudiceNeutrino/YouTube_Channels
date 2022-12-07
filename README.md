@@ -249,6 +249,7 @@
 * [Tibees](https://www.youtube.com/c/tibees/videos)
 * [Michael Penn ](https://www.youtube.com/c/MichaelPennMath/videos)
 * [zhuli](https://www.youtube.com/channel/UCn63G5jopR5Lq_cEiNNc9bA/videos)
+* [TrevTutor](https://www.youtube.com/@Trevtutor/videos)
 
 ## Electronics:
 
