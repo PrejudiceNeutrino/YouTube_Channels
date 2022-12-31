@@ -735,11 +735,12 @@
 
 * [SciHub](https://sci-hubtw.hkvisa.net/) \- remove academic paper paywalls
 * [KhanAcademy](https://www.khanacademy.org/) \- learn anything
+* [AnnasArchive](https://annas-archive.org/) \- books/textbooks
 * [Soap2Day](https://soap2day.ac/enter.html) \- movies/shows
-* [Book4You](https://b-ok.cc/) \- books/textbooks
 * [Firmoo](https://www.firmoo.com/) \- buy prescription glasses for cheap ($20 USD+)
 * [CostPlusDrugs.com](https://costplusdrugs.com/) \- affordably purchase medicine without insurance
 * [Wikipedia Years in Science](https://en.wikipedia.org/wiki/List_of_years_in_science) \- key discoveries over the years
+* [FutureMe](https://www.futureme.org/) \- send emails/letters to yourself in the future
 * [GitHub](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) \- find and share code
 * [CodePen](https://codepen.io/2020/popular/pens/1) \- GitHub but for web developers
 * [Outline](https://outline.com/) \- removes some article paywalls
