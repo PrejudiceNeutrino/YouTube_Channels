@@ -7,6 +7,7 @@
 ### YouTube Channels:
 - [Personal Favorites](#personal-favorites)
 - [Biology](#biology)
+- [Paleontology and Anthropology](#paleontology-and-anthropology)
 - [Physics](#physics)
 - [Chemistry](#chemistry)
 - [General Science](#general-science)
@@ -83,11 +84,9 @@
 * [Crime Pays But Botany Doesn't](https://www.youtube.com/c/CrimePaysButBotanyDoesnt/videos) \- botany
 * [Animalogic ](https://www.youtube.com/channel/UCwg6_F2hDHYrqbNSGjmar4w/videos)
 * [Nick Zentner](https://www.youtube.com/user/GeologyNick/videos) \- geology
-* [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA/videos) \- paleontology
 * [Fraser Valley Rose Farm ](https://www.youtube.com/c/FraserValleyRoseFarm/videos)\- botany
 * [Natural World Facts ](https://www.youtube.com/user/NaturalWorldFacts/videos)
 * [Dr. Plants ](https://www.youtube.com/c/DrPlantsChannel/videos)
-* [History of the Earth](https://www.youtube.com/c/HistoryoftheEarth/videos) \- paleontology
 * [zefrank1 ](https://www.youtube.com/c/zefrank/videos)
 * [Basin79](https://www.youtube.com/c/Basin79/videos) \- spiders
 * [Ben G Thomas ](https://www.youtube.com/c/BenGThomas/videos)
@@ -106,11 +105,8 @@
 * [Animal Fact Files](https://www.youtube.com/c/AnimalFactFiles/videos)
 * [Cornell Lab of Ornithology](https://www.youtube.com/c/LabofOrnithology/videos?view=0&sort=p&flow=grid)
 * [Planet Fungi](https://www.youtube.com/c/PlanetFungi/videos) \- mycology
-* [Moth Light Media](https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g/videos) \- paleontology
-* [NORTH 02](https://www.youtube.com/c/NORTH02/videos) \- paleontology
 * [Atlas Pro ](https://www.youtube.com/c/AtlasPro1/videos)
 * [Amoeba Sisters ](https://www.youtube.com/c/AmoebaSisters/videos)
-* [Stefan Milo](https://www.youtube.com/c/StefanMilo/videos) \- anthropogeny, anthropology 
 * [GeologyHub ](https://www.youtube.com/c/GeologyHub/videos)
 * [Kate Tectonics](https://www.youtube.com/user/katetectonics/videos) \- geology
 * [EVNautilus](https://www.youtube.com/c/EVNautilus/videos) \- marine biology
@@ -121,6 +117,18 @@
 * [Biologybyme](https://www.youtube.com/c/Biologybyme/videos)
 * [This Glorious Clockwork](https://www.youtube.com/c/ThisGloriousClockwork/videos)
 * [Simon Clark](https://www.youtube.com/c/SimonOxfPhys/videos) \- climate
+
+## Paleontology and Anthropology:
+
+* [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA/videos) 
+* [History of the Earth](https://www.youtube.com/c/HistoryoftheEarth/videos) 
+* [The Budget Museum](https://www.youtube.com/@TheBudgetMuseum/videos)
+* [Animal Origins](https://www.youtube.com/@animalorigins/videos)
+* [Moth Light Media](https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g/videos)
+* [NORTH 02](https://www.youtube.com/c/NORTH02/videos) 
+* [Stefan Milo](https://www.youtube.com/c/StefanMilo/videos)
+* [Your Dinosaurs Are Wrong](https://www.youtube.com/@YourDinosaursAreWrong/videos)
+* [Past Eons Productions](https://www.youtube.com/@PastEons/videos)
 
 ## Physics:
 
@@ -700,6 +708,7 @@
 * [acapellascience](https://www.youtube.com/c/acapellascience/videos?view=0&sort=p&flow=grid) \- science songs
 * [Jungle Survival](https://www.youtube.com/c/JungleSurvival/videos) \- fake, but cool
 * [Primitive Survival Tool](https://www.youtube.com/c/PrimitiveSurvivalTool/videos) \- fake, but cool
+* [NationSquid ](https://www.youtube.com/@nationsquid/videos) 
 
 ## Podcasts:
 
