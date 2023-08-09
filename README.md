@@ -44,7 +44,6 @@
 - [Browser Extensions](#browser-extensions)
 - [Online Learning](#online-learning)
 - [Software](#software)
-- [Other Websites](#other-websites)
 - [Misc](#misc)
 
 ## Personal Favorites:
