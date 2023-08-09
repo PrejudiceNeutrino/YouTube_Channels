@@ -52,13 +52,19 @@
 * [Lemmino](https://www.youtube.com/user/Top10Memes/videos) 
 * [melodysheep ](https://www.youtube.com/user/melodysheep/videos)
 * [NileRed](https://www.youtube.com/user/TheRedNile/videos) \- chemistry
+* [Sebastian Lague](https://www.youtube.com/c/SebastianLague/videos) \- game dev/comp sci
 * [Veritasium](https://www.youtube.com/c/veritasium/videos) \- general science
 * [Primitive Technology ](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA/videos)
+* [Vagrant Holiday](https://www.youtube.com/c/VagrantHoliday/videos) 
+* [Channel 5 with Andrew Callaghan ](https://www.youtube.com/c/Channel5YouTube/videos)
+* [Exurb1a](https://www.youtube.com/user/willunicycleforfood/videos) \- philosophy
+* [Marc Rebillet](https://www.youtube.com/c/MarcRebillet/videos) \- music
+* [Hsinchuen Lin](https://www.youtube.com/c/hsinchuen/videos) \- ceramics
+* [Cooking With The Blues](https://www.youtube.com/c/CookingWithTheBlues/videos) \- cooking
+* [Crime Pays But Botany Doesn't](https://www.youtube.com/c/CrimePaysButBotanyDoesnt/videos) \- botany
 * [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg/videos) \- engineering
 * [StuffMadeHere](https://www.youtube.com/c/StuffMadeHere/videos) \- engineering
-* [Sebastian Lague](https://www.youtube.com/c/SebastianLague/videos) \- game dev/comp sci
 * [Ben Eater ](https://www.youtube.com/user/eaterbc/videos)\- computer science
-* [Exurb1a](https://www.youtube.com/user/willunicycleforfood/videos) \- philosophy
 * [Casually Explained ](https://www.youtube.com/c/CasuallyExplained/videos)\- comedy, kinda
 * [styropyro ](https://www.youtube.com/user/styropyro/videos)\- lasers
 * [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos) \- math
@@ -68,12 +74,8 @@
 * [Periodic Videos](https://www.youtube.com/user/periodicvideos/videos) \- chemistry
 * [Journey to the Microcosmos](https://www.youtube.com/c/microcosmos/videos) \- microbiology, microscopy
 * [Deep Look](https://www.youtube.com/user/KQEDDeepLook/videos) \- biology
-* [Crime Pays But Botany Doesn't](https://www.youtube.com/c/CrimePaysButBotanyDoesnt/videos) \- botany
 * [Deep Sky Videos](https://www.youtube.com/user/DeepSkyVideos/videos) \- space
 * [Dictionary of Obscure Sorrows](https://www.youtube.com/user/obscuresorrows/videos)
-* [Marc Rebillet](https://www.youtube.com/c/MarcRebillet/videos) \- music
-* [Hsinchuen Lin](https://www.youtube.com/c/hsinchuen/videos) \- ceramics
-* [Cooking With The Blues](https://www.youtube.com/c/CookingWithTheBlues/videos) \- cooking
 * [SethEverman](https://www.youtube.com/user/SethEverman/videos) 
 * [Indigo Traveller ](https://www.youtube.com/c/IndigoTraveller/videos)\- travel
 
@@ -84,6 +86,7 @@
 * [Crime Pays But Botany Doesn't](https://www.youtube.com/c/CrimePaysButBotanyDoesnt/videos) \- botany
 * [Animalogic ](https://www.youtube.com/channel/UCwg6_F2hDHYrqbNSGjmar4w/videos)
 * [Nick Zentner](https://www.youtube.com/user/GeologyNick/videos) \- geology
+* [PBS Terra](https://www.youtube.com/@pbsterra/videos) \- earth science
 * [Fraser Valley Rose Farm ](https://www.youtube.com/c/FraserValleyRoseFarm/videos)\- botany
 * [Natural World Facts ](https://www.youtube.com/user/NaturalWorldFacts/videos)
 * [Dr. Plants ](https://www.youtube.com/c/DrPlantsChannel/videos)
@@ -117,6 +120,7 @@
 * [Biologybyme](https://www.youtube.com/c/Biologybyme/videos)
 * [This Glorious Clockwork](https://www.youtube.com/c/ThisGloriousClockwork/videos)
 * [Simon Clark](https://www.youtube.com/c/SimonOxfPhys/videos) \- climate
+* [OceanVizion](https://www.youtube.com/@oceanvizion/videos) \- 4k sea life
 
 ## Paleontology and Anthropology:
 
@@ -126,7 +130,7 @@
 * [Animal Origins](https://www.youtube.com/@animalorigins/videos)
 * [Moth Light Media](https://www.youtube.com/channel/UCOh5Ht3eB4914hMUfJkKa9g/videos)
 * [NORTH 02](https://www.youtube.com/c/NORTH02/videos) 
-* [Stefan Milo](https://www.youtube.com/c/StefanMilo/videos)
+* [Stefan Milo](https://www.youtube.com/c/StefanMilo/videos) 
 * [Your Dinosaurs Are Wrong](https://www.youtube.com/@YourDinosaursAreWrong/videos)
 * [Past Eons Productions](https://www.youtube.com/@PastEons/videos)
 
@@ -140,6 +144,7 @@
 * [Fermilab ](https://www.youtube.com/user/fermilab/videos)
 * [Physics Videos by Eugene](https://www.youtube.com/user/EugeneKhutoryansky/videos)
 * [ScienceClic English ](https://www.youtube.com/c/ScienceClicEN/videos)
+* [braintruffle](https://www.youtube.com/c/braintruffle/videos)
 * [Xenosum](https://www.youtube.com/c/XenosumPhysics/videos)
 * [DrPhysicsA](https://www.youtube.com/user/DrPhysicsA/videos)
 * [For the Allure of Physics](https://www.youtube.com/channel/UCliSRiiRVQuDfgxI_QN_Fmw/videos)
@@ -168,6 +173,7 @@
 * [Extractions&Ire](https://www.youtube.com/c/ExtractionsIre/videos)
 * [Explosions&Fire ](https://www.youtube.com/c/ExplosionsFire2/videos)
 * [ChemicalForce](https://www.youtube.com/c/ChemicalForce/videos)
+* [Chemdelic](https://www.youtube.com/@chemdelic/videos)
 * [Rhodanide](https://www.youtube.com/c/Rhodanide/videos)
 * [Tom's Lab](https://www.youtube.com/c/TomsLab/videos)
 * [ReactiveChem](https://www.youtube.com/channel/UC76v7IV2VacsYmQ2DcNMEUg/videos)
@@ -290,6 +296,7 @@
 * [FesZ Electronics](https://www.youtube.com/c/FesZElectronics/videos)
 * [Ali Hajimiri](https://www.youtube.com/c/AliHajimiriChannel/videos)
 * [Electronoobs](https://www.youtube.com/c/ELECTRONOOBS/videos) 
+* [Marco Reps ](https://www.youtube.com/c/MarcoReps/videos)
 
 ## Engineering:
 
@@ -297,10 +304,12 @@
 * [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg/videos)
 * [Practical Engineering](https://www.youtube.com/user/gradyhillhouse/videos) \- civil
 * [The Efficient Engineer](https://www.youtube.com/c/TheEfficientEngineer/videos) 
+* [Ziroth ](https://www.youtube.com/@ZirothTech/videos)
 * [The Engineering Mindset](https://www.youtube.com/c/Theengineeringmindset/videos)
 * [Engineering Explained ](https://www.youtube.com/user/EngineeringExplained/videos)
 * [Kyle.Engineers](https://www.youtube.com/c/KYLEDRIVES/videos)
 * [AgentJayZ](https://www.youtube.com/c/AgentJayZ/videos)
+* [Undecided with Matt Ferrell ](https://www.youtube.com/c/UndecidedMF/videos)
 * [The B1M ](https://www.youtube.com/c/Theb1mGoogle/videos)\- civil
 * [Found And Explained](https://www.youtube.com/c/FoundAndExplained/videos) \- aerospace
 * [Lesics](https://www.youtube.com/c/Lesics/videos)
@@ -309,6 +318,7 @@
 * [WolfShaft](https://www.youtube.com/c/WolfShaft/videos) \- mechanical renders
 * [Jeff Hanson](https://www.youtube.com/user/1234jhanson/videos) \- lectures
 * [Gregory Michaelson](https://www.youtube.com/channel/UCGv3KG_qIWQuIZEH-YGpBUw/playlists) \- statics, structural analysis
+* [Boston Dynamics ](https://www.youtube.com/user/BostonDynamics/videos)
 
 ## Computer Science:
 
@@ -319,6 +329,7 @@
 * [Computerphile](https://www.youtube.com/user/Computerphile/videos)
 * [LiveOverflow ](https://www.youtube.com/c/LiveOverflow/videos)
 * [jdh](https://www.youtube.com/c/jdhvideo/videos)
+* [Kevin Fang](https://www.youtube.com/@kevinfaang/videos) \- internet disasters
 * [Reducible ](https://www.youtube.com/c/Reducible/videos)
 * [PwnFunction ](https://www.youtube.com/c/PwnFunction/videos)
 * [CS Dojo ](https://www.youtube.com/c/CSDojo/videos)
@@ -371,6 +382,7 @@
 * [Deep Sky Videos](https://www.youtube.com/user/DeepSkyVideos/videos)
 * [Everyday Astronaut ](https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q/videos)
 * [John Michael Godier](https://www.youtube.com/c/JohnMichaelGodier/videos)
+* [Marcus House](https://www.youtube.com/c/MarcusHouse/videos) 
 * [SEA](https://www.youtube.com/channel/UCG9ShGbASoiwHwFcLcAh9EA/videos)
 * [Dr. Becky ](https://www.youtube.com/c/DrBecky/videos)
 * [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g/videos)
@@ -440,6 +452,7 @@
 
 * [12tone](https://www.youtube.com/c/12tonevideos/videos) \- music theory
 * [Tony Ann](https://www.youtube.com/user/tonyannmusic/videos) \- piano
+* [Frank Watkinson](https://www.youtube.com/@FrankWatkinson/videos) \- guitar
 * [Kyle Landry](https://www.youtube.com/c/kylelandry/videos) \- piano
 * [Paul Davids](https://www.youtube.com/c/PaulDavids/videos) \- guitar
 * [Alex Ball](https://www.youtube.com/c/AlexBallMusic/videos) \- synths
@@ -502,10 +515,12 @@
 ## Travel:
 
 * [Indigo Traveller ](https://www.youtube.com/c/IndigoTraveller/videos)
+* [Vagrant Holiday](https://www.youtube.com/c/VagrantHoliday/videos)
 * [Gabriel Traveler ](https://www.youtube.com/c/gabejedmo/videos)
 * [Karl Watson](https://www.youtube.com/user/karlwatson18/videos)
 * [Christoph Rehage ](https://www.youtube.com/c/ChristophRehage/videos)\- asia, europe
 * [c90adventures](https://www.youtube.com/playlist?list=PLiUJqMrz7-QNMcyiGo5mBhdqXqSM1XJQH) \- north, south, and central america
+* [hobestobe](https://www.youtube.com/user/hobestobe/videos) \- train hopping
 * [Only in Japan](https://www.youtube.com/c/JohnDaub/videos)
 * [travelling the unknown](https://www.youtube.com/c/travellingtheunknown/videos)
 * [The Tim Traveller ](https://www.youtube.com/c/TheTimTraveller/videos)
@@ -513,6 +528,7 @@
 * [Rick Steves' Europe ](https://www.youtube.com/c/ricksteves/videos?view=0&sort=dd&flow=grid)
 * [Kurt Caz ](https://www.youtube.com/c/KurtCaz/videos)
 * [bald and bankrupt ](https://www.youtube.com/c/baldandbankrupt/videos)
+* [Ilia Bondarev](https://www.youtube.com/c/%D0%98%D0%BB%D1%8C%D1%8F%D0%91%D0%BE%D0%BD%D0%B4%D0%B0%D1%80%D0%B5%D0%B2/videos) 
 
 ## History:
 
@@ -637,12 +653,14 @@
 
 ## Cooking:
 
+* [Cooking Con Claudia ](https://www.youtube.com/@CookingConClaudia/videos)
+* [ArnieTex](https://www.youtube.com/@ArnieTex/videos)
 * [Cooking With The Blues](https://www.youtube.com/c/CookingWithTheBlues/videos)
+* [SAM THE COOKING GUY](https://www.youtube.com/c/samthecookingguy/videos)
 * [J. Kenji López-Alt](https://www.youtube.com/c/JKenjiLopezAlt/videos)
 * [Chaplin's Classics](https://www.youtube.com/c/chaplinsrestaurant/videos)
 * [Chinese Cooking Demystified](https://www.youtube.com/c/ChineseCookingDemystified/videos)
 * [Yeung Man Cooking ](https://www.youtube.com/c/WILYEUNG/videos)
-* [SAM THE COOKING GUY](https://www.youtube.com/c/samthecookingguy/videos)
 * [Tasting History with Max Miller ](https://www.youtube.com/c/TastingHistory/videos)
 * [Joshua Weissman ](https://www.youtube.com/c/JoshuaWeissman/videos)
 * [Babish Culinary Universe ](https://www.youtube.com/c/bingingwithbabish/videos)
@@ -661,8 +679,9 @@
 ## Other:
 
 * [Internet Historian ](https://www.youtube.com/channel/UCR1D15p_vdP3HkrH8wgjQRw/videos)
+* [JxmyHighroller](https://www.youtube.com/@JxmyHighroller/videos) \- basketball, NBA
+* [Steve Cutts](https://www.youtube.com/user/steviecutts/videos) \- short films
 * [Bionerd23](https://www.youtube.com/c/bionerd23/videos)
-* [Vagrant Holiday](https://www.youtube.com/c/VagrantHoliday/videos)
 * [VLSkate](https://www.youtube.com/c/VLSkate/videos) \- skateboarding
 * [LockPickingLawyer](https://www.youtube.com/c/lockpickinglawyer/videos) \- lock picking
 * [EdwardCurrent](https://www.youtube.com/user/EdwardCurrent/videos)
@@ -706,9 +725,10 @@
 * [Stewart Hicks ](https://www.youtube.com/user/stewarthicks/videos)
 * [Jazza](https://www.youtube.com/c/Jazza/videos)
 * [acapellascience](https://www.youtube.com/c/acapellascience/videos?view=0&sort=p&flow=grid) \- science songs
-* [Jungle Survival](https://www.youtube.com/c/JungleSurvival/videos) \- fake, but cool
-* [Primitive Survival Tool](https://www.youtube.com/c/PrimitiveSurvivalTool/videos) \- fake, but cool
-* [NationSquid ](https://www.youtube.com/@nationsquid/videos) 
+* [Solar Sands ](https://www.youtube.com/c/SolarSands/videos)
+* [Great Art Explained](https://www.youtube.com/c/GreatArtExplained/videos)
+* [NationSquid ](https://www.youtube.com/@nationsquid/videos)
+* [DUST ](https://www.youtube.com/@watchdust/videos)\- sci-fi short films
 
 ## Podcasts:
 
@@ -745,25 +765,31 @@
 * [SciHub](https://sci-hubtw.hkvisa.net/) \- remove academic paper paywalls
 * [KhanAcademy](https://www.khanacademy.org/) \- learn anything
 * [AnnasArchive](https://annas-archive.org/) \- books/textbooks
-* [Soap2Day](https://soap2day.ac/enter.html) \- movies/shows
+* [ChatGPT](https://chat.openai.com/) \- talk to an intelligent AI
 * [Firmoo](https://www.firmoo.com/) \- buy prescription glasses for cheap ($20 USD+)
 * [CostPlusDrugs.com](https://costplusdrugs.com/) \- affordably purchase medicine without insurance
+* [Archive.ph](https://archive.ph/) \- bypass paywalls on anything
 * [Wikipedia Years in Science](https://en.wikipedia.org/wiki/List_of_years_in_science) \- key discoveries over the years
+* [Soap2Day](https://soap2day.ac/enter.html) \- movies/shows
 * [FutureMe](https://www.futureme.org/) \- send emails/letters to yourself in the future
 * [GitHub](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md) \- find and share code
 * [CodePen](https://codepen.io/2020/popular/pens/1) \- GitHub but for web developers
 * [Outline](https://outline.com/) \- removes some article paywalls
 * [Vocabulary.com](https://www.vocabulary.com/dictionary/) \- simple definitions for hard words
 * [Goodreads](https://www.goodreads.com/) \- find, rate, and review books
-* [Friendspire](https://www.friendspire.com/) \- social media for ranking movies, books, etc.
+* [Clippings.io](https://www.clippings.io/) \- organize all kindle notes and highlights 
 * [SyncTube](https://sync-tube.de/) \- watch YouTube videos together
 * [MusicMap](https://www.music-map.com/) \- find similar music artists
+* [Midjourney](https://www.midjourney.com/) \- AI art generation
+* [OneSimpleWish](https://www.onesimplewish.org/) \- charity to purchase items for foster kids
+* [RandomWebsite](https://www.random-website.com/) \- goes to a random website
 * [Find papers, articles, and books](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/edit)
 
 ## Browser Extensions:
 
 * [Dark Reader ](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US)\- turn any webpage dark themed
 * [Toby](https://chrome.google.com/webstore/detail/toby-for-chrome/hddnkoipeenegfoeaoibdmnaalmgkpip?hl=en) \- manage tabs and bookmarks
+* [Duplicate Tab Shortcut](https://chrome.google.com/webstore/detail/duplicate-tab-shortcut/klehggjefofgiajjfpoebdidnpjmljhb) \- duplicate tabs and windows
 * [Remove article paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) \- removes paywalls for all news articles
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) \- speed up any web videos by custom threshold
 * [Webtime Tracker](https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk?hl=en) \- track how much time you spend on sites
@@ -773,7 +799,7 @@
 * [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja?hl=en) \- auto accept cookies
 * [Blocksite](https://chrome.google.com/webstore/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh) \- block distracting sites
 * [Unhook](https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid?hl=en) \- remove YouTube recommended
-* [Enhancer for YouTube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=en-US) \- loads of customization for YouTube
+* [Enhancer for YouTube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle?hl=en-US) \- customization for YouTube
 
 ## Online Learning:
 
@@ -789,28 +815,29 @@
 ## Software:
 
 * [Everything](https://www.voidtools.com/downloads/) \- search files on computer instantaneously 
+* [QTTabBar](http://qttabbar.wikidot.com/) \- add tabs to windows file explorer
+* [WizTree](https://diskanalyzer.com/) \- visualize disk usage/mange space
+* [Anki](https://apps.ankiweb.net/) \- powerful flashcard tool
+* [Stable Diffusion](https://stable-diffusion-ui.github.io/) \- AI image generation 
+* [Quick Access Popup](https://www.quickaccesspopup.com/) \- launch folders, files, programs in one click
 * [Calibre](https://calibre-ebook.com/download) \- eBook manager
 * [F.lux](https://justgetflux.com/) \- custom screen tinting/remove blue light
-* [CPUID](https://www.cpuid.com/) \- detailed system information 
-* [Obsidian](https://obsidian.md/) \- note taking with a twist
-* [WinDirStat](https://windirstat.net/download.html) \- visualize disk usage/mange space
 * [Macrium](https://www.macrium.com/reflectfree) \- backup computer image
+* [CPUID](https://www.cpuid.com/) \- detailed information about your computer
 * [Notepad++](https://notepad-plus-plus.org/downloads/) \- better version of notepad
 * [Lightshot](https://app.prntscr.com/en/index.html) \- screenshots
 * [Bulk Rename Utility](https://www.bulkrenameutility.co.uk/) \- batch rename files
 * [Fontbase](https://fontba.se/) \- font manager
 * [Synthesia](https://synthesiagame.com/) \- learn piano from MIDI files
+* [Obsidian](https://obsidian.md/) \- note taking with a twist
 * [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) \- animated desktop/mobile wallpapers
-
-## Other Websites:
-
-* [DALLE](https://labs.openai.com/) \- AI art generation
-* [OneSimpleWish](https://www.onesimplewish.org/) \- charity to purchase items for foster kids
-* [RandomWebsite](https://www.random-website.com/) \- goes to a random website
+* [Google Earth](https://www.google.com/earth/versions/) \- interactively view the Earth, Moon, Mars, or night sky
 
 ## Misc:
 
 * [Developer YouTube Channels](https://github.com/ErikCH/DevYouTubeList)
 * [Climate Change Info](https://docs.google.com/document/d/1E_aXWapEBnNRg0KWZTcNTesV31vbCzYxWKoYTszS-iE/edit?usp=sharing)
 * [Piracy Megathread](https://github.com/Igglybuff/awesome-piracy/blob/master/readme.md)
-* [Book List](https://book4you.org/booklist/99231/aa21a5)
+* [Awesome Lists](https://github.com/topics/awesome-list)
+* [More Lists](https://github.com/learn-anything/curated-lists#readme)
+* [Book List](http://booklist.is/booklist/99231/aa21a5)
