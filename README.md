@@ -1,6 +1,6 @@
 # YouTube Channels & Other Resources
 
-* [Google Docs Version](https://docs.google.com/document/d/1M5kvDldTCDCNgrlNx6fcDF1h81fnKX6Ovvm20L06Jtk/edit) \- same list, but in google docs
+* [Google Docs Version](https://docs.google.com/document/d/1M5kvDldTCDCNgrlNx6fcDF1h81fnKX6Ovvm20L06Jtk/edit) \- same list, but in google docs and updated more often
 
 ## Table of Contents:
 
