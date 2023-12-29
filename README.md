@@ -296,6 +296,7 @@
 * [Ali Hajimiri](https://www.youtube.com/c/AliHajimiriChannel/videos)
 * [Electronoobs](https://www.youtube.com/c/ELECTRONOOBS/videos) 
 * [Marco Reps ](https://www.youtube.com/c/MarcoReps/videos)
+* [Gerald Undone](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg)
 
 ## Engineering:
 
